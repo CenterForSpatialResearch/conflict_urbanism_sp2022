@@ -1,7 +1,7 @@
 ---
 layout: post
-date:   2020-01-01
-image: "/template_site/images/csr_thumbnail.png"
+date:   2022-03-20
+image: "/conflict_urbanism_sp2022/images/csr_thumbnail.png"
 title:  "Tutorial - how to make a post on this site"
 author: ""
 ---
