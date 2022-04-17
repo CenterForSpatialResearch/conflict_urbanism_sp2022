@@ -18,7 +18,6 @@ author: "Sebastian, Group"
     </li>
 </ul>
 
-<p>
 
 ![description of image](/conflict_urbanism_sp2022/images/IMG_0555.jpg)
 
