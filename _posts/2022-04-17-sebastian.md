@@ -17,3 +17,9 @@ author: "Sebastian, Group"
         </ul>
     </li>
 </ul>
+
+<p>
+
+![description of image](/conflict_urbanism_sp2022/images/IMG_0555.jpg)
+
+If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
