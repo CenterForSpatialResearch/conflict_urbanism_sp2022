@@ -6,7 +6,6 @@ title:  "Toward an Infrapolitics of Borders and People: Deterritorializing and R
         Haifa, Palestine and Mahikeng, South Africa"
 author: "Mekarem Eljamal and Stefan Norgaard"
 ---
-
 **Introduction**
 
 This project examines different claims to space and how they are made. We focus on specific cities in Palestine and South Africa to highlight processes of territorial formation in contested milieux and these processes’ lingering afterlives. On the one hand, we advance that claims over space are made through presence, occupancy, and insurgence. On the other hand, claims are made through state-based and technical tools. Mapping defines boundaries of space and representation and tools of zoning, land-use, and law. Mapping structures the rules of spatial and economic development. Resident strategies constitute techniques of infrapolitics; tactics of nation-states and border-making constitute contested re-presentation, or legitimizing space as ‘public’ (see Scott, 2012; Latour, 2005). 
