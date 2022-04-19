@@ -13,6 +13,7 @@ author: "Sebastian Salas, Govardan Rajasekaran"
 
 <img src= "/conflict_urbanism_sp2022/images/0.1_World%20Map_UrbanizationRural.jpg">
 <img src= "/conflict_urbanism_sp2022/images/0.2_World%20Map_UrbanizationRural.jpg">
+
 ---
 #### Chiloe Study Case 
 
