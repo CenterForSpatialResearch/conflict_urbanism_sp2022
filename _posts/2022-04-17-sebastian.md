@@ -22,4 +22,23 @@ author: "Sebastian Salas, Govardan Rajasekaran"
 
 <img src= "/conflict_urbanism_sp2022/images/0.3_Chiloe_UrbanizationRural.jpg">
 
+<p><span style="text-decoration: underline;">Puente Chacao</span></p>
+<p>After years of public debate, the fixed connection between "Isla Grande de Chilo&eacute;" and the Chilean mainland will be established. The Chacao Bridge is estimated to be ready by 2025, and it will be a hanging structure with a length of 2,750 meters, which will link the continent with the island over the Chacao Channel. The bridge will reduce the journey to just 3 minutes and create better accessibility for its inhabitants and visitors.</p>
+<p><strong>There has been a controversial discussion about the bridge and its future. It can be argued that without sustainable planning and adequate legislation, the island will be negatively affected by the proliferation of development projects that do not consider the island's natural landscape and cultural traditions.</strong></p>
+
+<img src= "/conflict_urbanism_sp2022/images/0.4%20Puente%20Chacao_Urbanization%20of%20the%20Rural.jpg">
+
+<p><span style="font-weight: 400;">Land Subdivision.</span></p>
+<p><span style="font-weight: 400;">As part of its early stage urbanization process Chiloe is facing a rapid proliferation of land subdivisions with clear residential purposes in rural areas near the coast, lakes, national parks, and riverbanks. The origin of this problem lies in Decree Law No. 3,516 of 1980, which established the rules on the subdivision of agricultural, livestock or forestry rural land of no less than 5,000 m {+2} in the so-called "pleasant plots", and that prohibited changing their agricultural use to the lots resulting from the subdivision.</span></p>
+<p><i><span style="font-weight: 400;">&ldquo;These communes have an agricultural vocation, so by subdividing fields you are reducing the arable or livestock area. You end up eliminating the local, traditional culture and you generate pressure in the territory, inflation in nearby land, because there is an excess demand for acquiring land in Patagonia&rdquo; (diario financiero, 2022)</span></i></p>
+
+<img src= "/conflict_urbanism_sp2022/images/0.5%20Land%20Subdivision_Urbanization%20of%20the%20Rural.jpg">
+
+<p><span style="font-weight: 400;">In 2021 alone, a significant number of applications were received to create new land subdivision projects in Chiloe. A relevant share of these subdivision projects is to sell plots of 5,000 m2, the minimum subdivision area for agricultural land allowed by law in rural areas. Near the more urban areas of the Island, the buyers are local middle-class people looking to build their first homes there. But in the more rural areas near rivers and bays, large pieces of land are being bought by real estate investors from outside the region. Investors have subdivided plots and sold them for a second -or third- home or as an investment to foreigner sellers.&nbsp;</span></p>
+<p><span style="font-weight: 400;">According to people in the area, between 2014 and 2020, the surplus value of land in the region rose ten times. If the hectare used to be sold for between $2 million and $3 million pesos, it could cost now $40 million peso. For the same reason, the local community and farmers-despite the warnings and problems this brings to Chiloe they have- began to sell.</span></p>
+
+<img src= "/conflict_urbanism_sp2022/images/0.6%20Land%20Subdivision_Urbanization%20of%20the%20Rural.jpg">
+
+<p><strong>Because of the bad practices in the use of this regulation and the granting of permits for the construction of single-family condominiums in rural areas, today we are facing the loss of land rich in natural and agricultural resources, with an irreversible environmental impact, such as the dismemberment of the ecological mosaic, fragmentation of biodiversity corridors and overload of municipal services, without internalizing the social and environmental costs of hidden suburbanization.</strong></p>
+
 If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
