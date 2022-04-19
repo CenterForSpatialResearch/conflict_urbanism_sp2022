@@ -41,4 +41,14 @@ author: "Sebastian Salas, Govardan Rajasekaran"
 
 <p><strong>Because of the bad practices in the use of this regulation and the granting of permits for the construction of single-family condominiums in rural areas, today we are facing the loss of land rich in natural and agricultural resources, with an irreversible environmental impact, such as the dismemberment of the ecological mosaic, fragmentation of biodiversity corridors and overload of municipal services, without internalizing the social and environmental costs of hidden suburbanization.</strong></p>
 
+<p><span style="text-decoration: underline;"><span style="font-weight: 400;">Unbalances Urbanization Process-Study Case Parcelaci&oacute;n R&iacute;o Vilc&uacute;n</span></span></p>
+<p><span style="font-weight: 400;">The Parcelacion R&iacute;o Vilc&uacute;n Chilo&eacute; is located on a 57-hectare Rustic Property that in its first stage lots 45 exclusive parcels whose variety includes: meadows, saplings, river banks and panoramic views, of a minimum of 5,000 m2 surrounded by an environment full of tranquility and nature. The project is being promoted to foreigner buyers from other regions of the country as &ldquo;the best investment for your future&rdquo;</span></p>
+
+<img src= "/conflict_urbanism_sp2022/images/0.7%20Parcelazion%20Rio%20Vulcun_Urbanization%20of%20the%20Rural.jpg">
+
+<p><span style="font-weight: 400;">By analyzing the project, there is no clear urbanization plan with the possibility of generating new settlements. Many sites do not have access to roads, do not have water, and even less are urbanized with electricity or clean sanitation. The new housing poles in natural landscapes are located in areas that "are not prepared for this type of densification," says the NGO Center for the Study and Conservation of Natural Heritage (CECPAN) statement.&nbsp;</span></p>
+<p><span style="font-weight: 400;">The generation of these new housing poles in unplanned areas causes territorial segregation and the demand for local governments to provide essential services they can't offer. Hidden suburbanization in Chiloe is creating an irreparable modification of the rural landscape , altering these territories' cultural identity and agricultural vocation. The island of Chiloe is facing devastating consequences such as "an important loss of native forest, due to land clearing; the destruction of valuable ecosystems, as well as the affectation of species of special value or vulnerability."&nbsp; </span><i><span style="font-weight: 400;">(diario financiero, 2022)</span></i></p>
+
+<img src= "/conflict_urbanism_sp2022/images/0.8%20Speculation%20Render_Urbanization%20of%20the%20Rural.jpg">
+
 If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
