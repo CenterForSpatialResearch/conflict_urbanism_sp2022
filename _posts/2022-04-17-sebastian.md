@@ -2,10 +2,10 @@
 layout: post
 date:   2022-01-01
 image: "/conflict_urbanism_sp2022/images/csr_thumbnail.png"
-title:  "Week 2: Public Control of Private Land"
-author: "Sebastian, Group"
+title:  "Urbanization of The Rural"
+author: "Sebastian Salas, Govardan Rajasekaran"
 ---
-#### From Readings: Planning vs. Zoning
+#### Introduction
 
 <p><span style="font-weight: 400;">Since the second half of the last century, the world has experienced rapid urbanization processes, which increased the percentage of the global urban population from 30% in 1957 to over 50% in 2018 (United Nations, 2019). Projections suggest that urbanization will especially accelerate in major regions of the developing world over the coming decades, leading to a substantial demographic transformation process that will concentrate fully two-thirds of the world&rsquo;s population in cities and towns (UN Habitat, 2020).</span></p>
 <p><span style="font-weight: 400;">The following research strives to understand the past, present, and</span><span style="font-weight: 400;"> future urbanization patterns of rural areas in the island of Chiloe and the City of Bengaluru located in the south of Chile and the south of India</span><span style="font-weight: 400;">, respectively. The objective of the study will be focused on understanding the structures that promote urbanization and the conflicts established by the urban-rural dichotomy. By analyzing the patterns and policies of urbanization in Chiloe, Chile and Bangalore, India - we illustrate factors causing urbanization and speculate its impact in the future. We visualize patterns of urbanization and analyze the parameters that have shaped this process, while speculating future growth and impact on the rural and its ecosystem.&nbsp;</span></p>
