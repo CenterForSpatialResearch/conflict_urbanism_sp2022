@@ -1,6 +1,6 @@
 ---
 layout: post
-date:  "2022-04-19"
+date:  2022-04-19
 image: "/conflict_urbanism_sp2022/images/csr_thumbnail.png"
 title:  "Toward an Infrapolitics of Borders and People: Deterritorializing and Reterritorializing in 
         Haifa, Palestine and Mahikeng, South Africa"
