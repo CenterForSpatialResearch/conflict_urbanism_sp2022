@@ -7,17 +7,9 @@ author: "Sebastian, Group"
 ---
 #### From Readings: Planning vs. Zoning
 
-<ul>
-    <li>&ldquo; &lsquo;Planning&rsquo; and &lsquo;Zoning&rsquo; are closely related, for, in a general way, planning embraces zoning and zoning may not entirely exclude planning&rdquo; - The Supreme Court of Kentucky</li>
-    <li>&ldquo;Planning is long range; zoning is immediate. Planning is general; zoning is specific. Planning involves political processes; zoning is a legislative function and an exercise of the police power. Planning is generally dynamic while zoning is more or less static. Planning often involves frequent changes; zoning designations should not. Planning has a speculative impact upon property values, while zoning may actually constitute a valuable property right.&rdquo; - Idaho Supreme Court</li>
-    <li><span style="text-decoration: underline;">Planning</span>
-        <ul>
-            <li>&ldquo;City or town planning is a constitutional concept. ... Municipal planning, in a word, is the accommodation, through unity in construction, of the variant interests seeking expression in the local physical life to the interest of the community as a social unit. Planning is a science and art concerned with land economics and land policies in terms of social and economic betterment.&rdquo; - A NJ Court<br />Zoning</li>
-            <li>&ldquo;a legislative act representing a legislative judgment as to how the land within the City should be utilized and where the lines of demarcation between the several use zones should be drawn.&rdquo;</li>
-        </ul>
-    </li>
-</ul>
-
+<p><span style="font-weight: 400;">Since the second half of the last century, the world has experienced rapid urbanization processes, which increased the percentage of the global urban population from 30% in 1957 to over 50% in 2018 (United Nations, 2019). Projections suggest that urbanization will especially accelerate in major regions of the developing world over the coming decades, leading to a substantial demographic transformation process that will concentrate fully two-thirds of the world&rsquo;s population in cities and towns (UN Habitat, 2020).</span></p>
+<p><span style="font-weight: 400;">The following research strives to understand the past, present, and</span><span style="font-weight: 400;"> future urbanization patterns of rural areas in the island of Chiloe and the City of Bengaluru located in the south of Chile and the south of India</span><span style="font-weight: 400;">, respectively. The objective of the study will be focused on understanding the structures that promote urbanization and the conflicts established by the urban-rural dichotomy. By analyzing the patterns and policies of urbanization in Chiloe, Chile and Bangalore, India - we illustrate factors causing urbanization and speculate its impact in the future. We visualize patterns of urbanization and analyze the parameters that have shaped this process, while speculating future growth and impact on the rural and its ecosystem.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Through the study, parameters such as property, demographics and regulations will be established to study the urbanization pattern. The impact on the rural population due to urbanization will be illustrated through mapping and analyzing policy frameworks.</span></p>
 
 <img src= "/conflict_urbanism_sp2022/images/IMG_0555.jpg">
 
