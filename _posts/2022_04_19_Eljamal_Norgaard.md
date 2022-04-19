@@ -47,6 +47,7 @@ In the post-apartheid era, the status of citizenship and land have changed once 
 [timeline: names of places over time]
 
 **Regional Scale**
+
 The narrowing of attention to the regional scale highlights the interactions between land and border regimes with the realities “on the ground,” blurring the clarity that national boundaries often claim to have. 
 
 [Map 4: Overlay of Administrative boundaries between Mandate and 2008)
@@ -58,6 +59,7 @@ In South Africa, a regional-scale map highlights the original creation and borde
 
 
 **Municipal Scale**
+
 Continuing to scope the focus, turning our attention to the municipal and neighborhood scale, this more situated view complicates the clear lines of the national scale. State-based efforts become incredibly murky as the lingering afterlives of past territorializations intertwine with community efforts, blurring the dividing lines. In their re-territorializing, communities strategically deploy the repurposement and use of space, spatial abandonment, and continuity with past land use to assert their claims to and sense of belonging in these contested spaces.
 
 [Map 5: Haifa Town Planning with Redevelopment Zones]
@@ -84,41 +86,57 @@ Zooming into the neighborhood level, we continue to see tactics of abandonment, 
 Maps grounded in local places show active efforts at territorial contestation by residents. Photographs, event programs, programs, and advertisements, alongside people repurposing or strategically re-using buildings, reveal active processes of infrapolitics and spatial reappropriation within the original built environments and architectures of national-level planning and territory schemes. The result is places marked by complex hybrid uses and functions.
 
 **Limitations**
+
 Our examination of territorialization is restricted to specific local places and should not be generalized beyond these localities. Moreover, as authors, our primary data collection has been limited to specific (and short) periods of time. Accordingly, our experiences of territorialization processes in action is partial, and to some degree impressionistic. Additionally, our work faces data limitations: both the Palestinian and South African context is marked by data embargoes, censorship, and historical or contemporary archival erasure. Nonetheless, we believe that focusing on territorialization as dynamic and contradictory processes enacted in places by residents and nation-states alike affords a new way to view maps and boundaries. We encourage researchers to further triangulate this hypothesis with residents in varied contexts.
 
 **Implications and Conclusion**
+
 Lessons for planners, architects, and scholars emerge from our focus on territorialization: spaces are iterative, with territorialization processes that are never complete with a single outcome. Rarely do places on-the-ground conform fully to abstract representations of space as shown on nation-level maps. Instead, places take on lives of their own in a complex amalgamation of states, institutions, and people. De- and re-territorialization processes are never seen within the purview of one actor’s vision. Outcomes are never static. As we take this longue durée approach to claiming space continuously, we see the lack of the control that institutions and states have in producing space. Local residents subvert and appropriate spaces to make places, while still working and existing with constraints (see Creswell, 1996). Our project draws on tools of mapping, jurisdiction, and boundary-making to show precisely how such tools are insufficient to understanding lived realities and constructions and reconstructions of place.  
 
 **References**
 
 **Spatial Data:**
+
 Basemap. 2022. Copyright Open Street Map. Under CC BY 3.0. Data by OpenStreetMap. Copyright 
 OpenStreetMap,  open data licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF).
 Department of Agriculture, Forestry and Fisheries. 2022. “Former Homelands.” Accessed courtesy of 
+
 Fiona Drummond.  Government of the Republic of South Africa. http://daffgis.daff.gov.za/portal/home/group.html?id=3eee49d53eb045dc885bdb883fb5504b&focus=layers&sortField=numviews&sortOrder=desc. 
 Statistics South Africa (SSA). "Provinces, District,  and Local Municipality" Datasets.  Presentation Form 
 vector digital data of the South Africa Geography collection. Available online at:  http://mapserver2.statssa.gov.za/geographywebsite/
 
 **Secondary Sources:**
+
 Clarno, Andy. *Neoliberal Apartheid: Palestine/Israel and South Africa after 1994.* Chicago: University of 
   Chicago Press. 
+
 Creswell, Tim. 1996. *In Place/Out of Place: Geography, Ideology, and Transgression.* Minneapolis:     
   University of Minnesota Press. 
+
 Latour, Bruno. 2005. “From Realpolitik to Dingpolitik or How to Make Things Public.” 
   *Making Things Public: Atmospheres of Democracy,* eds. Bruno Latour and Peter Weibel. Cambridge, Mass: MIT Press, 2005. 4–31.
+
 Lefebvre, Henri. 1974. *The Production of Space.* Oxford, UK; Cambridge, MA: Blackwell.
+
 Mamdani, Mahmood. 1996. “The Other Face of Tribalism: Peasant Movements in Equatorial Africa.” 
   *Citizen and Subject: Contemporary Africa and the Legacy of Late Colonialism.* Princeton: Princeton University Press. 183-217.
+
 Mpofu-Walsh, Sizwe. 2021. *The New Apartheid.* Cape Town: Tafelberg Uitgewers BPK.
+
 Robinson, Jennifer. 1996. *The Power of Apartheid: State, Power, and Space in South African Cities.* 
   Johannesburg: Butterworth-Heinemann.
+
 Robinson, Shira. 2013. *Citizen Strangers: Palestinians and the Birth of Israel’s Liberal Settler State*   
   Stanford: Stanford University Press. 
+
 Scott, James C. 2012. “Infrapolitics and Mobilizations: A Response by James C. Scott.” *Revue Française 
   d’Études Américaines.* 2012. Vol. 1, no. 131: 112–117.
+
 Seikaly, Sherene. 2016. *Men of Capital: Scarcity and Economy in Mandate Palestine.* Stanford: Stanford   
   University Press.
+
 Simone, Abdoumaliq. 2004. “People as Infrastructure: Intersecting Fragments in Johannesburg.” *Public   
   Culture.* Vol 16, no. 3: 407-429. 
+
 Stoler, Ann. 2008. “Imperial Debris: Reflections on Ruins and Ruination.” *Cultural Anthropology.* Vol 23,
   no. 2: 191-219.
