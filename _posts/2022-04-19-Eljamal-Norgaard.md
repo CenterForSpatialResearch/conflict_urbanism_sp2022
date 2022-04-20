@@ -32,23 +32,24 @@ The new Israeli borders continue to redefine the subjects and territories under 
 What we see with these national-scale maps are territorialization at a distance, disconnected from whether such borders have been realized, whether they are viewed as legitimate on the ground, and whether they are respected both by those constructing the boundary lines and those ostensibly seen as subjects. 
 
 [Map S1: Christopher, 1994, 33]
-![Bantustans](/conflict_urbanism_sp2022/images/SN_Norgaard_Map1.png)
+![Historical map of Natives Lands Acts](/conflict_urbanism_sp2022/images/SN_Norgaard_Map1.png)
 
 [Map S2: bantustans, by author]
 ![Bantustans](/conflict_urbanism_sp2022/images/SN_Norgaard_Map2.png)
 
 [Map S3: former Bophuthatswana, regionally]
-![Bantustans](/conflict_urbanism_sp2022/images/SN_Norgaard_Map3.png)
+![Bantustans at a regional level](/conflict_urbanism_sp2022/images/SN_Norgaard_Map3.png)
 
 Apartheid was an overarching regimes of differenitated citizenship achieved centrally through spatial logics (Robinson, 1996, 1). Yet racialized land ownership predates apartheid. As seen in this map from AJ Chistopher (1994, 33), there is a striking correlation between the areas where non-white South Africans could own land in the 1913 and 1936 Natives Lands Acts, and apartheid-era bantustans. 
 
 [Map S4: forced relocations, Surplus Peoples Project, 1984]
+![Forced disposession to Bantustans](/conflict_urbanism_sp2022/images/SN_Norgaard_Map4.tiff)
 This second map from the nonprofit Surplus Peoples Project (1984) documents the scale of forced dispossession and relocation into former bantustans: over 3.5 million non-white South Africans were forcibly relocated. 
 
 [Map S5: post-1994 provinces and district and local municipalities]
+![Bantustans contemporary](/conflict_urbanism_sp2022/images/SN_Norgaard_Map5.png)
 In the post-apartheid era, the status of citizenship and land have changed once more. A deterritorialization of homeland boundaries in the 1990s is now marked by a wall-to-wall system of provinces and district and local municipalities. Yet as Mpofu-Walsh (2021) has argued, aparthied persists across South African society, which remains by many measures the world’s most unequal. 
 
-[timeline: names of places over time]
 
 **Regional Scale**
 
@@ -58,7 +59,8 @@ The narrowing of attention to the regional scale highlights the interactions bet
 Still often drawn at a distance, the regional administrative boundaries, though, speak to the element of proximity and its significance in realizing acts of territorialization. Palestinian subjects and British authorities of the subdivision scale had a different relationship with each other than Palestinians had to the national-level authorities (Robinson, 2013; Seikaly, 2016). While the national territorialization Mandate and Israeli scales saw divergences of boundaries, looking at this regional scale, we begin to see some convergences. Within the contemporary borders of Israel, the names and relative sizes of the administrative boundaries remained the same. 
 
 [Map S6: contemporary North-West scale, regional scale]
-[Note: if time, add SEZ and industrial clusters to regional map]
+![Bantustans, contemporary view, at a regional level](/conflict_urbanism_sp2022/images/SN_Norgaard_Map6.png)
+
 In South Africa, a regional-scale map highlights the original creation and borders of the homeland, or bantustan, known as Bophuthatswana. The map shows its territorial non-contiguity, making the space de facto completely dependent on then-apartheid South Africa. This territorial separation meant countless borders and checkpoints in the apartheid era. The master-planned capital city, Mmabatho, was reintegrated into the Republic of South Africa in the 1990s. 
 
 
@@ -87,9 +89,11 @@ Finding the language to describe the destroyed homes, forced into abandonment by
 In Mahikeng (formerly the pre-planned capital city of Mmabatho), municipal-scale maps convery the city’s 1970s’ master-plan, which exists both alongside and in contrast to city spaces today. The apartheid and post-apartheid state and residents alike have drawn on territorialization techniques of abandonment, repurposement, and continuity in locally situated ways that are hard to predict. 
 
 [Map S7: Mahikeng municipal level with photos]
+![Mahikeng municipal level with photos](/conflict_urbanism_sp2022/images/SN_Norgaard_Map7.png)
 As seen above, the Mmabatho airport and Thusong Community Hospital both now sit vacant in the North-West Province’s landscape, remnants in the built environment of what once was. By contrast, what was original planned as the Bophuthatswana Molopo District Governor’s Office has been repurposed as the ANC’s Ngaka Modiri Molema District Municipality Office. Yet we see continuity in residential zones. The Rooigrond housing neighborhood remains today a site of dwelling. Its matchbox-size homes were built in the wake of massive apartheid-era forced relocation in the creation of the homelands. Likewise, Mmabatho Palms Casino, a luxury casino that thrived in the days when apartheid South Africa forbid gambling, remains an anchor business in Mahikeng today.
 
 [Map S8: Mahikeng neighborhood level with photos]
+![Mahikeng Garona neighborhood level with photos](/conflict_urbanism_sp2022/images/SN_Norgaard_Map8.png)
 Zooming into the neighborhood level, we continue to see tactics of abandonment, repurposing, and continuity in practice. Sites like the massive Mmabatho Stadium and Mmabana Arts and Culture Complex now sit vacant. Designed by Israeli Architects Ilan Sharon and Israel Godowitz in the 1970s and 80s, they have a considerable archival history and footprint. By contrast, the Garona Complex was initially envisioned as a site for the national government of Bophuthatswana in the apartheid-era system of indirect rule and today it houses provincial-level government offices for the ANC-run North-West Province. Finally, we continue to see continuity when it comes to residential arrangements. Civil servant housing in the Mmabatho Unit 2 area (now Mahikeng, North-West) has remained continuously in use as housing for upper-middle class residents, and the Kgotla Plaza public space remains used dynamically by residents. This public space leverages Tswana architecture conceptions of public meeting grounds and has been a well-used public space across institutional moments.
 
 Maps grounded in local places show active efforts at territorial contestation by residents. Photographs, event programs, programs, and advertisements, alongside people repurposing or strategically re-using buildings, reveal active processes of infrapolitics and spatial reappropriation within the original built environments and architectures of national-level planning and territory schemes. The result is places marked by complex hybrid uses and functions.
