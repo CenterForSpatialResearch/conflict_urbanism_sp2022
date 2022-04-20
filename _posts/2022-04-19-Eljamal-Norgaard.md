@@ -25,20 +25,20 @@ Subject and citizenship is formed through two sets of borders on this Mandate er
 [Map 2: UN Partition Plan]
 The envisioned division of Palestine into two separate states, a Jewish state and a Palestinian one, hinged around constructing two countries wherein the citizens within the borders aligned with the new governing authority, regardless of the feasibility of such national division. 
 
-![Administrative borders of Israel](/conflict_urbanism_sp2020/images/MEljamal_Map3.png)
+![Administrative borders of Israel](/conflict_urbanism_sp2022/images/MEljamal_Map3.png)
 [Map 3: Israel, 2015] 
 The new Israeli borders continue to redefine the subjects and territories under its authority, stretching its reach further into the territories that the earlier UN partition plan had labeled as Palestinian territories. Important to note, these boundary lines, though, do not account for military and civilian (i.e. settlements) incursions as national-scale territorialization that forcibly and violently expand the scope of Israel’s claimed authority and sovereignty. 
 
 What we see with these national-scale maps are territorialization at a distance, disconnected from whether such borders have been realized, whether they are viewed as legitimate on the ground, and whether they are respected both by those constructing the boundary lines and those ostensibly seen as subjects. 
 
 [Map S1: Christopher, 1994, 33]
-![Bantustans](/conflict_urbanism_sp2020/images/SN_Norgaard_Map1.png)
+![Bantustans](/conflict_urbanism_sp2022/images/SN_Norgaard_Map1.png)
 
 [Map S2: bantustans, by author]
-![Bantustans](/conflict_urbanism_sp2020/images/SN_Norgaard_Map2.png)
+![Bantustans](/conflict_urbanism_sp2022/images/SN_Norgaard_Map2.png)
 
 [Map S3: former Bophuthatswana, regionally]
-![Bantustans](/conflict_urbanism_sp2020/images/SN_Norgaard_Map3.png)
+![Bantustans](/conflict_urbanism_sp2022/images/SN_Norgaard_Map3.png)
 
 Apartheid was an overarching regimes of differenitated citizenship achieved centrally through spatial logics (Robinson, 1996, 1). Yet racialized land ownership predates apartheid. As seen in this map from AJ Chistopher (1994, 33), there is a striking correlation between the areas where non-white South Africans could own land in the 1913 and 1936 Natives Lands Acts, and apartheid-era bantustans. 
 
