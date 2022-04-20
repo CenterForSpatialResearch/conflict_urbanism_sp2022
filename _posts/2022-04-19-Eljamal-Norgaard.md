@@ -33,7 +33,9 @@ The new Israeli borders continue to redefine the subjects and territories under 
 What we see with these national-scale maps are territorialization at a distance, disconnected from whether such borders have been realized, whether they are viewed as legitimate on the ground, and whether they are respected both by those constructing the boundary lines and those ostensibly seen as subjects. 
 
 [Map S1: 1913 and 1936 Natives' Land Acts (Image from AFRA, 1989]
+
 ![Historical map of Natives Lands Acts](/conflict_urbanism_sp2022/images/SN_Norgaard_Map1a.png)
+
 ![Historical map of Natives Lands Acts](/conflict_urbanism_sp2022/images/SN_Norgaard_Map1b.png)
 
 [Map S2: bantustans, by author]
@@ -125,8 +127,6 @@ vector digital data of the South Africa Geography collection. Available online a
 "1913 and 1936 Natives' Land Acts." 1989. *The Human Awareness Programme of the Association for Rural Advancement (AFRA)*. Exhibits D5 and D6. 
   Accessed 20 April 2022. Available at https://afra.co.za/resources/, and https://docs.google.com/viewer?
   a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx0c2hpbnRzaGFpbnRyYW5ldHxneDo0ZmFlMDRkNDQwN2MzOWQx. 
-
-Christopher, A.J. 1994. *The Atlas of Apartheid.* New York: Routledge. 
 
 “A land divided against itself. A Map of South Africa Showing the African Homelands and Some of the Mass Removals of People which have taken 
   Place.” 1977. *Mission Basel 21.* Ref. number: KARVAR-31.135. [Archives catalogue]: Maps and plans: KARVAR - Various maps: KARVAR-31. Type: 
