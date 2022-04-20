@@ -46,8 +46,8 @@ Apartheid was an overarching regimes of differenitated citizenship achieved cent
 ![Forced disposession to Bantustans](/conflict_urbanism_sp2022/images/SN_Norgaard_Map4.tiff)
 This second map from the nonprofit Surplus Peoples Project (1984) documents the scale of forced dispossession and relocation into former bantustans: over 3.5 million non-white South Africans were forcibly relocated. 
 
-[Map S5: post-1994 provinces and district and local municipalities]
-![Bantustans contemporary](/conflict_urbanism_sp2022/images/SN_Norgaard_Map5.png)
+[Map S6: post-1994 provinces and district and local municipalities]
+![Bantustans contemporary](/conflict_urbanism_sp2022/images/SN_Norgaard_Map6.png)
 In the post-apartheid era, the status of citizenship and land have changed once more. A deterritorialization of homeland boundaries in the 1990s is now marked by a wall-to-wall system of provinces and district and local municipalities. Yet as Mpofu-Walsh (2021) has argued, aparthied persists across South African society, which remains by many measures the world’s most unequal. 
 
 
@@ -58,8 +58,8 @@ The narrowing of attention to the regional scale highlights the interactions bet
 [Map 4: Overlay of Administrative boundaries between Mandate and 2008)
 Still often drawn at a distance, the regional administrative boundaries, though, speak to the element of proximity and its significance in realizing acts of territorialization. Palestinian subjects and British authorities of the subdivision scale had a different relationship with each other than Palestinians had to the national-level authorities (Robinson, 2013; Seikaly, 2016). While the national territorialization Mandate and Israeli scales saw divergences of boundaries, looking at this regional scale, we begin to see some convergences. Within the contemporary borders of Israel, the names and relative sizes of the administrative boundaries remained the same. 
 
-[Map S6: contemporary North-West scale, regional scale]
-![Bantustans, contemporary view, at a regional level](/conflict_urbanism_sp2022/images/SN_Norgaard_Map6.png)
+[Map S5: contemporary North-West scale, regional scale]
+![Bantustans, contemporary view, at a regional level](/conflict_urbanism_sp2022/images/SN_Norgaard_Map5.png)
 
 In South Africa, a regional-scale map highlights the original creation and borders of the homeland, or bantustan, known as Bophuthatswana. The map shows its territorial non-contiguity, making the space de facto completely dependent on then-apartheid South Africa. This territorial separation meant countless borders and checkpoints in the apartheid era. The master-planned capital city, Mmabatho, was reintegrated into the Republic of South Africa in the 1990s. 
 
