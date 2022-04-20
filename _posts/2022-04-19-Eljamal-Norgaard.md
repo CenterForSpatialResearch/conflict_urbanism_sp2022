@@ -43,7 +43,7 @@ What we see with these national-scale maps are territorialization at a distance,
 Apartheid was an overarching regimes of differenitated citizenship achieved centrally through spatial logics (Robinson, 1996, 1). Yet racialized land ownership predates apartheid. As seen in this map from AJ Chistopher (1994, 33), there is a striking correlation between the areas where non-white South Africans could own land in the 1913 and 1936 Natives Lands Acts, and apartheid-era bantustans. 
 
 [Map S4: forced relocations, Surplus Peoples Project, 1984]
-![Forced disposession to Bantustans](/conflict_urbanism_sp2022/images/SN_Norgaard_Map4.tiff)
+![Forced disposession to Bantustans](/conflict_urbanism_sp2022/images/SN_Norgaard_Map4.jpg)
 This second map from the nonprofit Surplus Peoples Project (1984) documents the scale of forced dispossession and relocation into former bantustans: over 3.5 million non-white South Africans were forcibly relocated. 
 
 [Map S6: post-1994 provinces and district and local municipalities]
