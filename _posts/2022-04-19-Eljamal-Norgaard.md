@@ -32,8 +32,14 @@ The new Israeli borders continue to redefine the subjects and territories under 
 What we see with these national-scale maps are territorialization at a distance, disconnected from whether such borders have been realized, whether they are viewed as legitimate on the ground, and whether they are respected both by those constructing the boundary lines and those ostensibly seen as subjects. 
 
 [Map S1: Christopher, 1994, 33]
+![Bantustans](/conflict_urbanism_sp2020/images/SN_Norgaard_Map1.png)
+
 [Map S2: bantustans, by author]
+![Bantustans](/conflict_urbanism_sp2020/images/SN_Norgaard_Map2.png)
+
 [Map S3: former Bophuthatswana, regionally]
+![Bantustans](/conflict_urbanism_sp2020/images/SN_Norgaard_Map3.png)
+
 Apartheid was an overarching regimes of differenitated citizenship achieved centrally through spatial logics (Robinson, 1996, 1). Yet racialized land ownership predates apartheid. As seen in this map from AJ Chistopher (1994, 33), there is a striking correlation between the areas where non-white South Africans could own land in the 1913 and 1936 Natives Lands Acts, and apartheid-era bantustans. 
 
 [Map S4: forced relocations, Surplus Peoples Project, 1984]
