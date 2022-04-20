@@ -105,7 +105,7 @@ Finding the language to describe the destroyed homes, forced into abandonment by
 In Mahikeng (formerly the pre-planned capital city of Mmabatho), municipal-scale maps convery the city’s 1970s’ master-plan, which exists both alongside and in contrast to city spaces today. The apartheid and post-apartheid state and residents alike have drawn on territorialization techniques of abandonment, repurposement, and continuity in locally situated ways that are hard to predict. 
 
 [Map S7: Mahikeng municipal level with photos]
-![Mahikeng municipal level with photos](/conflict_urbanism_sp2022/images/SN_Norgaard_Map7.png)
+![Mahikeng municipal level with photos](/conflict_urbanism_sp2022/images/SN_Norgaard_Map7_rev.png)
 As seen above, the Mmabatho airport and Thusong Community Hospital both now sit vacant in the North-West Province’s landscape, remnants in the built environment of what once was. By contrast, what was original planned as the Bophuthatswana Molopo District Governor’s Office has been repurposed as the ANC’s Ngaka Modiri Molema District Municipality Office. Yet we see continuity in residential zones. The Rooigrond housing neighborhood remains today a site of dwelling. Its matchbox-size homes were built in the wake of massive apartheid-era forced relocation in the creation of the homelands. Likewise, Mmabatho Palms Casino, a luxury casino that thrived in the days when apartheid South Africa forbid gambling, remains an anchor business in Mahikeng today.
 
 [Map S8: Mahikeng neighborhood level with photos]
