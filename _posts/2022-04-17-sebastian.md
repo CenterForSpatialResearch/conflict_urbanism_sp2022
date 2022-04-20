@@ -76,6 +76,8 @@ author: "Sebastian Salas, Govardan Rajasekaran"
 
 <img src= "/conflict_urbanism_sp2022/images/12_Urbanization%20of%20The%20Rural.jpg">
 
+<img src= "/conflict_urbanism_sp2022/images/13_Urbanization%20of%20The%20Rural.jpg">
+
 #### Conclusion
 
 <p><span style="font-weight: 400;">By comparing urbanization in Chiloe and Bangalore - we see two contrasting scenarios where the former is undergoing the process of urbanization while the latter is highly urbanized and is claiming neighboring rural areas through </span><span style="font-weight: 400;">pseudo urbanization. </span><span style="font-weight: 400;">We illustrate the conflict in the process of development and establish there is a need to take charge of the urban rural -transition in a realistic and responsible manner.&nbsp;</span></p>
