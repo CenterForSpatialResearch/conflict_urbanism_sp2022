@@ -8,10 +8,12 @@ author: "Sebastian Salas, Govardan Rajasekaran"
 #### Introduction
 
 <p><span style="font-weight: 400;">Since the second half of the last century, the world has experienced rapid urbanization processes, which increased the percentage of the global urban population from 30% in 1957 to over 50% in 2018 (United Nations, 2019). Projections suggest that urbanization will especially accelerate in major regions of the developing world over the coming decades, leading to a substantial demographic transformation process that will concentrate fully two-thirds of the world&rsquo;s population in cities and towns (UN Habitat, 2020).</span></p>
+
+<img src= "/conflict_urbanism_sp2022/images/1_Urbanization%20of%20The%20Rural.jpg">
+
 <p><span style="font-weight: 400;">The following research strives to understand the past, present, and</span><span style="font-weight: 400;"> future urbanization patterns of rural areas in the island of Chiloe and the City of Bengaluru located in the south of Chile and the south of India</span><span style="font-weight: 400;">, respectively. The objective of the study will be focused on understanding the structures that promote urbanization and the conflicts established by the urban-rural dichotomy. By analyzing the patterns and policies of urbanization in Chiloe, Chile and Bangalore, India - we illustrate factors causing urbanization and speculate its impact in the future. We visualize patterns of urbanization and analyze the parameters that have shaped this process, while speculating future growth and impact on the rural and its ecosystem.&nbsp;</span></p>
 <p><span style="font-weight: 400;">Through the study, parameters such as property, demographics and regulations will be established to study the urbanization pattern. The impact on the rural population due to urbanization will be illustrated through mapping and analyzing policy frameworks.</span></p>
 
-<img src= "/conflict_urbanism_sp2022/images/1_Urbanization%20of%20The%20Rural.jpg">
 <img src= "/conflict_urbanism_sp2022/images/2_Urbanization%20of%20The%20Rural.jpg">
 
 ---
@@ -27,9 +29,11 @@ author: "Sebastian Salas, Govardan Rajasekaran"
 
 <p><span style="font-weight: 400;">Chiloe is a mix of rolling green hills and blue waters on the eastern side and a rocky coastline pounded by the mighty Pacific Ocean to the west. This island has pristine landscapes, including winding rivers, lakes, and lagoons with a fascinating array of flora and fauna. The unique landscape shapes the culture of local communities known as Chilotes. The island is the second-largest in South America, cut off from the mainland by the Chacao Canal</span></p>
 
-<img src= "/conflict_urbanism_sp2022/images/5_Urbanization%20of%20The%20Rural.jpg">
+
 
 <p><span style="text-decoration: underline;">Puente Chacao</span></p>
+
+<img src= "/conflict_urbanism_sp2022/images/5_Urbanization%20of%20The%20Rural.jpg">
 
 <p>After years of public debate, the fixed connection between "Isla Grande de Chilo&eacute;" and the Chilean mainland will be established. The Chacao Bridge is estimated to be ready by 2025, and it will be a hanging structure with a length of 2,750 meters, which will link the continent with the island over the Chacao Channel. The bridge will reduce the journey to just 3 minutes and create better accessibility for its inhabitants and visitors.</p>
 <p><strong>There has been a controversial discussion about the bridge and its future. It can be argued that without sustainable planning and adequate legislation, the island will be negatively affected by the proliferation of development projects that do not consider the island's natural landscape and cultural traditions.</strong></p>
