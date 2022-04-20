@@ -118,6 +118,13 @@ Fiona Drummond.  Government of the Republic of South Africa. http://daffgis.daff
 Statistics South Africa (SSA). "Provinces, District,  and Local Municipality" Datasets.  Presentation Form 
 vector digital data of the South Africa Geography collection. Available online at:  http://mapserver2.statssa.gov.za/geographywebsite/
 
+**Primary Visual Sources:**
+
+Christopher, A.J. 1994. *The Atlas of Apartheid.* New York: Routledge. 
+
+“A land divided against itself. A Map of South Africa Showing the African Homelands and Some of the Mass Removals of People which have taken Place.” 1977. *Mission Basel 21.* Ref. number: KARVAR-31.135. [Archives catalogue]: Maps and plans: KARVAR - Various maps: KARVAR-31. Type: Map. Accessed 23 February 2022. Available online at: https://www.bmarchives.org/items/show/100204688#p=1.
+
+
 **Secondary Sources:**
 
 Clarno, Andy. *Neoliberal Apartheid: Palestine/Israel and South Africa after 1994.* Chicago: University of 
