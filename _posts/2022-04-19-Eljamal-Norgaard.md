@@ -140,10 +140,7 @@ vector digital data of the South Africa Geography collection. Available online a
   Accessed 20 April 2022. Available at https://afra.co.za/resources/, and https://docs.google.com/viewer?
   a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx0c2hpbnRzaGFpbnRyYW5ldHxneDo0ZmFlMDRkNDQwN2MzOWQx. 
 
-“A land divided against itself. A Map of South Africa Showing the African Homelands and Some of the Mass Removals of People which have taken 
-  Place.” 1977. *Mission Basel 21.* Ref. number: KARVAR-31.135. [Archives catalogue]: Maps and plans: KARVAR - Various maps: KARVAR-31. Type: 
-  Map. Accessed 23 February 2022. Available online at: https://www.bmarchives.org/items/show/100204688#p=1.
-
+“A Land Divided Against Itself: A Map of South Africa Showing the African Homelands and Some of the Mass Removals of People which have Taken Place.” 1977. *Mission Basel 21.* Ref. number: KARVAR-31.135. Accessed 23 February 2022. Available online at: https://www.bmarchives.org/items/show/100204688#.
 
 **Secondary Sources:**
 
