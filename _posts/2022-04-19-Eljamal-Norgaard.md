@@ -39,7 +39,7 @@ The new Israeli borders continue to redefine the subjects and territories under 
 What we see with these national-scale maps are territorialization at a distance, disconnected from whether such borders have been realized, whether they are viewed as legitimate on the ground, and whether they are respected both by those constructing the boundary lines and those ostensibly seen as subjects. 
 
 
-####**Historical Map of the 1913 and 1936 Natives' Land Acts (Image from AFRA, 1989. Reproduced with permission).**
+#### **Historical Map of the 1913 and 1936 Natives' Land Acts (Image from AFRA, 1989. Reproduced with permission).**
 
 ![Historical map of Natives Lands Acts](/conflict_urbanism_sp2022/images/SN_Norgaard_Map1a.png)
 
@@ -55,7 +55,7 @@ What we see with these national-scale maps are territorialization at a distance,
 Apartheid was an overarching regimes of differenitated citizenship achieved centrally through spatial logics (Robinson, 1996, 1). Yet racialized land ownership predates apartheid. As seen in this map from AJ Chistopher (1994, 33), there is a striking correlation between the areas where non-white South Africans could own land in the 1913 and 1936 Natives Lands Acts, and apartheid-era bantustans. 
 
 
-####**Historical Map showing the extent of forced relocations (Image from Surplus Peoples Project, 1984. Reproduced with permission of _Mission Basil 21_)**
+#### **Historical Map showing the extent of forced relocations (Image from Surplus Peoples Project, 1984. Reproduced with permission of *Mission Basil 21*)**
 
 ![Forced disposession to Bantustans](/conflict_urbanism_sp2022/images/SN_Norgaard_Map4.jpg)
 This second map from the nonprofit Surplus Peoples Project (1984) documents the scale of forced dispossession and relocation into former bantustans: over 3.5 million non-white South Africans were forcibly relocated. 
