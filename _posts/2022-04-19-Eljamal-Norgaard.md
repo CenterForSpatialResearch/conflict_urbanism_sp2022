@@ -21,9 +21,8 @@ Our project proceeds in a multi-scalar form. When examining birds-eye national-s
 
 Legal regimes and borders aim to produce space in a way that establishes specific types and categories of citizens and subjects, seeking to clearly assert sovereignty and unique authority over people and land (Mamdani, 1996, 183). 
 
-<p align="center">
-  <img width="460" height="300" src=!(/conflict_urbanism_sp2022/images/MEljamal_Map1.png)>
-</p>
+
+![Map of British Mandate Palestine](/conflict_urbanism_sp2022/images/MEljamal_Map1.png)
 
 Subject and citizenship is formed through two sets of borders on this Mandate era map. First, the national boundaries of the Palestine Mandate, depicting the authority of the British colonial government on subjects residing within the boundaries stretching from the Mediterranean to the Jordan River. 
 
