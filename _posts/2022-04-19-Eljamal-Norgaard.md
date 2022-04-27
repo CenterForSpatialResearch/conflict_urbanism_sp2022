@@ -32,7 +32,7 @@ Subject and citizenship is formed through two sets of borders on this Mandate er
 The envisioned division of Palestine into two separate states, a Jewish state and a Palestinian one, hinged around constructing two countries wherein the citizens within the borders aligned with the new governing authority, regardless of the feasibility of such national division. 
 
 
-![Administrative borders of Israel](/conflict_urbanism_sp2022/images/MEljamal_Map3.png)
+![Administrative borders of Israel](/conflict_urbanism_sp2022/images/MEljamal_Map3_Revision.png)
 
 The new Israeli borders continue to redefine the subjects and territories under its authority, stretching its reach further into the territories that the earlier UN partition plan had labeled as Palestinian territories. Important to note, these boundary lines, though, do not account for military and civilian (i.e. settlements) incursions as national-scale territorialization that forcibly and violently expand the scope of Israel’s claimed authority and sovereignty. 
 
@@ -70,7 +70,7 @@ In the post-apartheid era, the status of citizenship and land have changed once 
 The narrowing of attention to the regional scale highlights the interactions between land and border regimes with the realities “on the ground,” blurring the clarity that national boundaries often claim to have. 
 
 
-![Contemporary Israeli administrative borders overlayed onto Mandatory administrative borders](/conflict_urbanism_sp2022/images/MEljamal_Map4.png)
+![Contemporary Israeli administrative borders overlayed onto Mandatory administrative borders](/conflict_urbanism_sp2022/images/MEljamal_Map4_Revision.png)
 
 Still often drawn at a distance, the regional administrative boundaries, though, speak to the element of proximity and its significance in realizing acts of territorialization. Palestinian subjects and British authorities of the subdivision scale had a different relationship with each other than Palestinians had to the national-level authorities (Robinson, 2013; Seikaly, 2016). While the national territorialization Mandate and Israeli scales saw divergences of boundaries, looking at this regional scale, we begin to see some convergences. Within the contemporary borders of Israel, the names and relative sizes of the administrative boundaries remained the same. 
 
@@ -85,13 +85,13 @@ In South Africa, a regional-scale map highlights the original creation and borde
 Continuing to scope the focus, turning our attention to the municipal and neighborhood scale, this more situated view complicates the clear lines of the national scale. State-based efforts become incredibly murky as the lingering afterlives of past territorializations intertwine with community efforts, blurring the dividing lines. In their re-territorializing, communities strategically deploy the repurposement and use of space, spatial abandonment, and continuity with past land use to assert their claims to and sense of belonging in these contested spaces.
 
 
-![Map depicts several redevelopment zones in Lower Haifa](/conflict_urbanism_sp2022/images/MEljamal_Map5.png)
+![Map depicts several redevelopment zones in Lower Haifa](/conflict_urbanism_sp2022/images/MEljamal_Map5_Revision.png)
 
 
-![There are two sets of redevelopment zones in this map. In a black hashmarks are past redevelopment zones and in red hashmarks, extending the previous redevelopment zones are the new zones](/conflict_urbanism_sp2022/images/MEljamal_Map6.png)
+![There are two sets of redevelopment zones in this map. In a black hashmarks are past redevelopment zones and in red hashmarks, extending the previous redevelopment zones are the new zones](/conflict_urbanism_sp2022/images/MEljamal_Map6_Revision.png)
 
 
-![The redevelopment zones of the past two maps are overlayed together, differentiating by color the zones created in 1938, the zones existing prior to the 1949 scheme, and the added redevelopment zones from the 1949 map](/conflict_urbanism_sp2022/images/MEljamal_Map7.png)
+![The redevelopment zones of the past two maps are overlayed together, differentiating by color the zones created in 1938, the zones existing prior to the 1949 scheme, and the added redevelopment zones from the 1949 map](/conflict_urbanism_sp2022/images/MEljamal_Map7_Revision.png)
 
 At the more fine-grained scale of the neighborhood level, depicted by these town planning schemes and redevelopment plans, we see continuity between regimes in the municipal approach to territorialization. Set nearly a decade apart, both the Israeli and Mandate governments devoted significant energy and attention to nearly the same areas, as evidenced by the overlapping and proximate redevelopment zones, each relying on material redevelopment to inscribe specific identities and meaning on the space. While redevelopment schemes under the Mandate period fit with more generic “ordering” priorities, such as straightening and widening roads, the redevelopment seen in the Israeli scheme is contextualized with the 1948 Operation Shikmona, which left the Lower City and adjacent neighborhoods devastated. Such destruction opened the opportunity for the new Haifa municipality to redefine the area, erasing and appropriating histories inscribed into the urban fabric. As we will see shortly, though, the success of such a plan is not as clear as the lines of a scheme. 
 
