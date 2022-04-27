@@ -8,18 +8,18 @@ author: "Mekarem Eljamal and Stefan Norgaard"
 
 #### **Introduction**
 
-This project examines different claims to space and how they are made. We focus on specific cities in Palestine and South Africa to highlight processes of territorial formation in contested milieux and these processes’ lingering afterlives. On the one hand, we advance that claims over space are made through presence, occupancy, and insurgence. On the other hand, claims are made through state-based and technical tools. Mapping defines boundaries of space and representation and tools of zoning, land-use, and law. Mapping structures the rules of spatial and economic development. Resident strategies constitute techniques of infrapolitics; tactics of nation-states and border-making constitute contested re-presentation, or legitimizing space as ‘public’ (see Scott, 2012; Latour, 2005). 
+This project examines different claims to space and how they are made. We focus on specific cities in Palestine and South Africa to highlight processes of territorial formation in contested milieux and these processes’ lingering afterlives. On the one hand, we advance that claims over space are made through presence, occupancy, and insurgence. On the other hand, claims are made through state-based and technical tools. Mapping defines boundaries of space and representation and tools of zoning, land-use, and law. Mapping structures the rules of spatial and economic development. Resident strategies constitute techniques of infrapolitics; tactics of nation-states and border-making constitute contested re-presentation, or legitimizing space as ‘public’ (see Scott 2012; Latour 2005). 
 
 **In our case-study contexts, we argue that strategies of ‘deterritorialization’ and ‘reterritorialization’ have aimed to serve larger national-level political ends for projects of racial and ethnic exclusion. Yet on the ground, they also give rise to complex hybridized spaces of dwelling and everyday life.**
 
-We focus on Haifa, Palestine, and Mmabatho, Bophuthatswana (now Mahikeng, North-West), looking at changing borders and spatial re-appropriation of buildings and spaces from 1913 to the present. The project considers how both states and residents alternatively appropriate and re-appropriate spaces over time, in hegemonic and defiant exercises shaping what Lefebvre (1974) calls the production of space. Drawing on our local case studies, we explore how States use technologies and logics of urban planning in processes of strategic deterritorialization and reterritorialization of formal borders, property demarcations, and land-use controls. In both Palestine and South Africa, such urban-planning logics cultimate in spaces that sequester, control, and exclude populations by way of race and ethnicity (Clarno, 2017). With a focus on 1913-present, we explore these efforts of deterritorializing and reterritorializing, but also explore underlives: infrapolitics of borders and people (Scott, 2012; Simone, 2004).
+We focus on Haifa, Palestine, and Mmabatho, Bophuthatswana (now Mahikeng, North-West), looking at changing borders and spatial re-appropriation of buildings and spaces from 1913 to the present. The project considers how both states and residents alternatively appropriate and re-appropriate spaces over time, in hegemonic and defiant exercises shaping what Lefebvre (1974) calls the production of space. Drawing on our local case studies, we explore how States use technologies and logics of urban planning in processes of strategic deterritorialization and reterritorialization of formal borders, property demarcations, and land-use controls. In both Palestine and South Africa, such urban-planning logics cultimate in spaces that sequester, control, and exclude populations by way of race and ethnicity (Clarno 2017). With a focus on 1913-present, we explore these efforts of deterritorializing and reterritorializing, but also explore underlives: infrapolitics of borders and people (Scott 2012; Simone 2004).
 
 Our project proceeds in a multi-scalar form. When examining birds-eye national-scale maps, official technologies of representation and the social construction of borders loom large. However, when zooming down to the scale of cities and neighborhoods, we can glimpse complex hybridization within territorialization. 
 
 
 #### **National Scale**
 
-Legal regimes and borders aim to produce space in a way that establishes specific types and categories of citizens and subjects, seeking to clearly assert sovereignty and unique authority over people and land (Mamdani, 1996, 183). 
+Legal regimes and borders aim to produce space in a way that establishes specific types and categories of citizens and subjects, seeking to clearly assert sovereignty and unique authority over people and land (Mamdani 1996, 183). 
 
 
 ![Map of British Mandate Palestine](/conflict_urbanism_sp2022/images/MEljamal_Map1.png)
@@ -39,7 +39,7 @@ The new Israeli borders continue to redefine the subjects and territories under 
 What we see with these national-scale maps are territorialization at a distance, disconnected from whether such borders have been realized, whether they are viewed as legitimate on the ground, and whether they are respected both by those constructing the boundary lines and those ostensibly seen as subjects. 
 
 
-#### **Historical Map of the 1913 and 1936 Natives' Land Acts (Image from AFRA, 1989. Reproduced with permission).**
+#### **Historical Map of the 1913 and 1936 Natives' Land Acts (Image from AFRA 1989. Reproduced with permission).**
 
 ![Historical map of Natives Lands Acts](/conflict_urbanism_sp2022/images/SN_Norgaard_Map1a.png)
 
@@ -52,7 +52,7 @@ What we see with these national-scale maps are territorialization at a distance,
 ![Bantustans at a regional level](/conflict_urbanism_sp2022/images/SN_Norgaard_Map3.png)
 
 
-Apartheid was an overarching regimes of differenitated citizenship achieved centrally through spatial logics (Robinson, 1996, 1). Yet racialized land ownership predates apartheid. As seen in this map from AJ Chistopher (1994, 33), there is a striking correlation between the areas where non-white South Africans could own land in the 1913 and 1936 Natives Lands Acts, and apartheid-era bantustans. 
+Apartheid was an overarching regimes of differenitated citizenship achieved centrally through spatial logics (Robinson 1996, 1). Yet racialized land ownership predates apartheid. As seen in this map from AJ Chistopher (1994 33), there is a striking correlation between the areas where non-white South Africans could own land in the 1913 and 1936 Natives Lands Acts, and apartheid-era bantustans. 
 
 
 #### **Historical Map showing the extent of forced relocations (Image from Surplus Peoples Project, 1984. Reproduced with permission of *Mission Basil 21*)**
@@ -72,7 +72,7 @@ The narrowing of attention to the regional scale highlights the interactions bet
 
 ![Contemporary Israeli administrative borders overlayed onto Mandatory administrative borders](/conflict_urbanism_sp2022/images/MEljamal_Map4_Revision.png)
 
-Still often drawn at a distance, the regional administrative boundaries, though, speak to the element of proximity and its significance in realizing acts of territorialization. Palestinian subjects and British authorities of the subdivision scale had a different relationship with each other than Palestinians had to the national-level authorities (Robinson, 2013; Seikaly, 2016). While the national territorialization Mandate and Israeli scales saw divergences of boundaries, looking at this regional scale, we begin to see some convergences. Within the contemporary borders of Israel, the names and relative sizes of the administrative boundaries remained the same. 
+Still often drawn at a distance, the regional administrative boundaries, though, speak to the element of proximity and its significance in realizing acts of territorialization. Palestinian subjects and British authorities of the subdivision scale had a different relationship with each other than Palestinians had to the national-level authorities (Robinson 2013; Seikaly 2016). While the national territorialization Mandate and Israeli scales saw divergences of boundaries, looking at this regional scale, we begin to see some convergences. Within the contemporary borders of Israel, the names and relative sizes of the administrative boundaries remained the same. 
 
 
 ![Bantustans, contemporary view, at a regional level](/conflict_urbanism_sp2022/images/SN_Norgaard_Map5.png)
@@ -125,25 +125,24 @@ Our examination of territorialization is restricted to specific local places and
 
 #### **Implications and Conclusion**
 
-Lessons for planners, architects, and scholars emerge from our focus on territorialization: spaces are iterative, with territorialization processes that are never complete with a single outcome. Rarely do places on-the-ground conform fully to abstract representations of space as shown on nation-level maps. Instead, places take on lives of their own in a complex amalgamation of states, institutions, and people. De- and re-territorialization processes are never seen within the purview of one actor’s vision. Outcomes are never static. As we take this longue durée approach to claiming space continuously, we see the lack of the control that institutions and states have in producing space. Local residents subvert and appropriate spaces to make places, while still working and existing with constraints (see Creswell, 1996). Our project draws on tools of mapping, jurisdiction, and boundary-making to show precisely how such tools are insufficient to understanding lived realities and constructions and reconstructions of place.  
+Lessons for planners, architects, and scholars emerge from our focus on territorialization: spaces are iterative, with territorialization processes that are never complete with a single outcome. Rarely do places on-the-ground conform fully to abstract representations of space as shown on nation-level maps. Instead, places take on lives of their own in a complex amalgamation of states, institutions, and people. De- and re-territorialization processes are never seen within the purview of one actor’s vision. Outcomes are never static. As we take this longue durée approach to claiming space continuously, we see the lack of the control that institutions and states have in producing space. Local residents subvert and appropriate spaces to make places, while still working and existing with constraints (Creswell 1996). Our project draws on tools of mapping, jurisdiction, and boundary-making to show precisely how such tools are insufficient to understanding lived realities and constructions and reconstructions of place.  
 
 #### **References**
 
 
 #### **Spatial Data:**
 
-Basemap. 2022. Copyright Open Street Map. Under CC BY 3.0. Data by OpenStreetMap. Copyright OpenStreetMap,  open data licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF). Department of Agriculture, Forestry and Fisheries. 2022. 
+Basemap. 2022. Copyright Open Street Map. Accessed 15 March 2022. Under CC BY 3.0. Data by OpenStreetMap, open data licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF). 
 
-Hijmans, Robert and University of California-Berkeley. “Boundary, Israel, 2015.” [shapefile]. UC Berkeley, Museum of Vertebrate Zoology. 2015. http://purl.stanford.edu/vq116mt9730. 
+Hijmans, Robert and University of California-Berkeley. 2015. “Boundary, Israel, 2015.” [shapefile]. UC Berkeley, Museum of Vertebrate Zoology. 2015. http://purl.stanford.edu/vq116mt9730. 
 
-Hijmans, Robert and University of California-Berkeley. “First-level Administrative Divisions, Israel, 2015.” [shapefile].UC Berkeley, Museum of Vertebrate Zoology. 2015. http://purl.stanford.edu/ch107xc0728</idCredit>.
+Hijmans, Robert and University of California-Berkeley. 2015. “First-level Administrative Divisions, Israel, 2015.” [shapefile].UC Berkeley, Museum of Vertebrate Zoology. http://purl.stanford.edu/ch107xc0728</idCredit>.
 
-Ministry of Interior. “Boundaries of Judgement.” [shapefile]. GIS Information System. 2008. https://www.gov.il/he/Departments/Guides/info-gis 
+Ministry of Interior. 2008. “Boundaries of Judgement.” [shapefile]. GIS Information System. https://www.gov.il/he/Departments/Guides/info-gis.
 
-“Former Homelands.” Accessed courtesy of Fiona Drummond.  Government of the Republic of South Africa. http://daffgis.daff.gov.za/portal/home/group.html?id=3eee49d53eb045dc885bdb883fb5504b&focus=layers&sortField=numviews&sortOrder=desc. 
+“Former Homelands.” 2022. Accessed courtesy of Fiona Drummond.  Government of the Republic of South Africa, Department of Agriculture, Forestry and Fisheries. Accessed 25 March 2022. http://daffgis.daff.gov.za/portal/home/group.html?id=3eee49d53eb045dc885bdb883fb5504b&focus=layers&sortField=numviews&sortOrder=desc. 
 
-Statistics South Africa (SSA). "Provinces, District,  and Local Municipality" Datasets.  Presentation Form 
-vector digital data of the South Africa Geography collection. Available online at:  http://mapserver2.statssa.gov.za/geographywebsite/
+Statistics South Africa (SSA). 2010. "Provinces, District,  and Local Municipality" Datasets.  Presentation Form vector digital data of the South Africa Geography collection. Accessed 15 March 2022. Available online at:  http://mapserver2.statssa.gov.za/geographywebsite/.
 
 
 #### **Primary Visual Sources:**
@@ -155,15 +154,15 @@ vector digital data of the South Africa Geography collection. Available online a
 
 #### **Secondary Sources:**
 
-Clarno, Andy. *Neoliberal Apartheid: Palestine/Israel and South Africa after 1994.* Chicago: University of Chicago Press. 
+Clarno, Andy. 2017. *Neoliberal Apartheid: Palestine/Israel and South Africa after 1994.* Chicago: University of Chicago Press. 
 
 Creswell, Tim. 1996. *In Place/Out of Place: Geography, Ideology, and Transgression.* Minneapolis: University of Minnesota Press. 
 
-Latour, Bruno. 2005. “From Realpolitik to Dingpolitik or How to Make Things Public.” *Making Things Public: Atmospheres of Democracy,* eds. Bruno Latour and Peter Weibel. Cambridge, Mass: MIT Press, 2005. 4–31.
+Latour, Bruno. 2005. “From Realpolitik to Dingpolitik or How to Make Things Public.” *Making Things Public: Atmospheres of Democracy,* eds. Bruno Latour and Peter Weibel. Cambridge, Mass: MIT Press, 4–31.
 
 Lefebvre, Henri. 1974. *The Production of Space.* Oxford, UK; Cambridge, MA: Blackwell.
 
-Mamdani, Mahmood. 1996. “The Other Face of Tribalism: Peasant Movements in Equatorial Africa.” *Citizen and Subject: Contemporary Africa and the Legacy of Late Colonialism.* Princeton: Princeton University Press. 183-217.
+Mamdani, Mahmood. 1996. “The Other Face of Tribalism: Peasant Movements in Equatorial Africa.” In: *Citizen and Subject: Contemporary Africa and the Legacy of Late Colonialism*, 183–217. Princeton: Princeton University Press.
 
 Mpofu-Walsh, Sizwe. 2021. *The New Apartheid.* Cape Town: Tafelberg Uitgewers BPK.
 
@@ -171,12 +170,12 @@ Robinson, Jennifer. 1996. *The Power of Apartheid: State, Power, and Space in So
 
 Robinson, Shira. 2013. *Citizen Strangers: Palestinians and the Birth of Israel’s Liberal Settler State* Stanford: Stanford University Press. 
 
-Scott, James C. 2012. “Infrapolitics and Mobilizations: A Response by James C. Scott.” *Revue Française d’Études Américaines.* 2012. Vol. 1, no. 131: 112–117.
+Scott, James C. 2012. “Infrapolitics and Mobilizations: A Response by James C. Scott.” *Revue Française d’Études Américaines* 1(131): 112–117.
 
 Seikaly, Sherene. 2016. *Men of Capital: Scarcity and Economy in Mandate Palestine.* Stanford: Stanford University Press.
 
-Simone, Abdoumaliq. 2004. “People as Infrastructure: Intersecting Fragments in Johannesburg.” *Public Culture.* Vol 16, no. 3: 407-429. 
+Simone, Abdoumaliq. 2004. “People as Infrastructure: Intersecting Fragments in Johannesburg.” *Public Culture* 16(3): 407-429. 
 
-Stoler, Ann. 2008. “Imperial Debris: Reflections on Ruins and Ruination.” *Cultural Anthropology.* Vol 23, no. 2: 191-219.
+Stoler, Ann. 2008. “Imperial Debris: Reflections on Ruins and Ruination.” *Cultural Anthropology* 23(2): 191-219.
 
 
