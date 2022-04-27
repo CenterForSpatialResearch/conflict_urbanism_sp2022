@@ -134,6 +134,12 @@ Lessons for planners, architects, and scholars emerge from our focus on territor
 
 Basemap. 2022. Copyright Open Street Map. Under CC BY 3.0. Data by OpenStreetMap. Copyright OpenStreetMap,  open data licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF). Department of Agriculture, Forestry and Fisheries. 2022. 
 
+Hijmans, Robert and University of California-Berkeley. “Boundary, Israel, 2015.” [shapefile]. UC Berkeley, Museum of Vertebrate Zoology. 2015. http://purl.stanford.edu/vq116mt9730. 
+
+Hijmans, Robert and University of California-Berkeley. “First-level Administrative Divisions, Israel, 2015.” [shapefile].UC Berkeley, Museum of Vertebrate Zoology. 2015. http://purl.stanford.edu/ch107xc0728</idCredit>.
+
+Ministry of Interior. “Boundaries of Judgement.” [shapefile]. GIS Information System. 2008. https://www.gov.il/he/Departments/Guides/info-gis 
+
 “Former Homelands.” Accessed courtesy of Fiona Drummond.  Government of the Republic of South Africa. http://daffgis.daff.gov.za/portal/home/group.html?id=3eee49d53eb045dc885bdb883fb5504b&focus=layers&sortField=numviews&sortOrder=desc. 
 
 Statistics South Africa (SSA). "Provinces, District,  and Local Municipality" Datasets.  Presentation Form 
