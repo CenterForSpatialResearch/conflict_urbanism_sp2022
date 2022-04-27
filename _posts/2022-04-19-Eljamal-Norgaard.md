@@ -134,11 +134,11 @@ Lessons for planners, architects, and scholars emerge from our focus on territor
 
 Basemap. 2022. Copyright Open Street Map. Accessed 15 March 2022. Under CC BY 3.0. Data by OpenStreetMap, open data licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF). 
 
-Hijmans, Robert and University of California-Berkeley. 2015. “Boundary, Israel, 2015.” [shapefile]. UC Berkeley, Museum of Vertebrate Zoology. 2015. http://purl.stanford.edu/vq116mt9730. 
+Hijmans, Robert and University of California-Berkeley. 2015. “Boundary, Israel, 2015.” [shapefile]. UC Berkeley, Museum of Vertebrate Zoology. 2015. Accessed 20 March 2022. http://purl.stanford.edu/vq116mt9730. 
 
-Hijmans, Robert and University of California-Berkeley. 2015. “First-level Administrative Divisions, Israel, 2015.” [shapefile].UC Berkeley, Museum of Vertebrate Zoology. http://purl.stanford.edu/ch107xc0728</idCredit>.
+Hijmans, Robert and University of California-Berkeley. 2015. “First-level Administrative Divisions, Israel, 2015.” [shapefile].UC Berkeley, Museum of Vertebrate Zoology. Accessed 20 March 2022. http://purl.stanford.edu/ch107xc0728</idCredit>.
 
-Ministry of Interior. 2008. “Boundaries of Judgement.” [shapefile]. GIS Information System. https://www.gov.il/he/Departments/Guides/info-gis.
+Ministry of Interior. 2008. “Gvulot Shiput.” [shapefile]. GIS Information System. Accessed 20 March 2022.  https://www.gov.il/he/Departments/Guides/info-gis.
 
 “Former Homelands.” 2022. Accessed courtesy of Fiona Drummond.  Government of the Republic of South Africa, Department of Agriculture, Forestry and Fisheries. Accessed 25 March 2022. http://daffgis.daff.gov.za/portal/home/group.html?id=3eee49d53eb045dc885bdb883fb5504b&focus=layers&sortField=numviews&sortOrder=desc. 
 
@@ -151,6 +151,13 @@ Statistics South Africa (SSA). 2010. "Provinces, District,  and Local Municipali
 
 “A Land Divided Against Itself: A Map of South Africa Showing the African Homelands and Some of the Mass Removals of People which have Taken Place.” 1977. *Mission Basel 21.* Ref. number: KARVAR-31.135. Accessed 23 February 2022. Available online at: https://www.bmarchives.org/items/show/100204688#.
 
+Haifa Local Town Planning Commission. 1938. "Haifa Outline Town Planning Scheme: Zoning and Road Map." Haifa Engineering Archive.
+
+Haifa Municipality. 1949. "Rehabilitation Central Haifa." Haifa Engineering Archive.
+
+Survey of Palestine. 1936. "Palestine Administration Map." Eran Laor Collection of Maps. National Library of Israel. Ref. number: Pal 1193. Accessed 15 April. Available online at: https://www.nli.org.il/en/maps/NNL_ALEPH002367940/NLI#$FL13746855
+
+United Nations. 1947. "Palestine Plan on Partition with Economic Union." London. Eran Laor Collection of Maps. National Library of Israel. Ref. number: Pal 1107.1. Accessed 15 April 2022. Available online at: https://www.nli.org.il/en/maps/NNL_MAPS_JER002612446/NLI#$FL25570438
 
 #### **Secondary Sources:**
 
