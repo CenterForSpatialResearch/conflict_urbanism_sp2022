@@ -24,12 +24,12 @@ Legal regimes and borders aim to produce space in a way that establishes specifi
 
 ![Map of British Mandate Palestine](/conflict_urbanism_sp2022/images/MEljamal_Map1_Revision.png)
 
-Subject and citizenship is formed through two sets of borders on this Mandate era map. First, the national boundaries of the Palestine Mandate, depicting the authority of the British colonial government on subjects residing within the boundaries stretching from the Mediterranean to the Jordan River. 
+Subject and citizenship is formed through two sets of borders on this Mandate era map. First, through the national boundaries of the Palestine Mandate, depicting the authority of the British colonial government on subjects residing within the boundaries stretching from the Mediterranean to the Jordan River. Then the administrative borders in red represent a second layer of authority, still British authority, but one more proximal to residents.
 
 
 ![British partition plan](/conflict_urbanism_sp2022/images/MEljamal_Map2.jpg)
 
-The envisioned division of Palestine into two separate states, a Jewish state and a Palestinian one, hinged around constructing two countries wherein the citizens within the borders aligned with the new governing authority, regardless of the feasibility of such national division. 
+The envisioned division of Palestine into two separate states, a Jewish state and a Palestinian one, hinged around constructing two countries wherein the citizens within the borders aligned with the new governing authority, regardless of the feasibility of such national division. This partition map, and the fact that it was not implemented as depicted, forces a questioning of maps, whether they truly provide clarity and what reality they represent. 
 
 
 ![Administrative borders of Israel](/conflict_urbanism_sp2022/images/MEljamal_Map3_Revision.png)
