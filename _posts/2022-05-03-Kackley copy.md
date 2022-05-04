@@ -1,9 +1,9 @@
 ---
 layout: post
-date:   2022-05-06
+date:   2022-01-01
 image: "/conflict_urbanism_sp2022/images/csr_thumbnail.png"
-title:  "Title: No More Monkey Business"
-author: "Jake Tiernan, Takashi Honzawa, Charlie Liu, Jacob Kackley"
+title:  "Template Post: Title of Your Final Project"
+author: "Names Of Everyone In Your Group"
 ---
 ####  Urban Baboon's in Cape Town, South Africa  
 
