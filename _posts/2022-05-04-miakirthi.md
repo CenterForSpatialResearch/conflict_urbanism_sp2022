@@ -1,9 +1,3 @@
-<script>
-    function go(loc){
-    console.log(loc);
-        document.getElementById('iframe').src = loc;
-    }
-</script>
 ---
 layout: post
 date:   2022-05-04
@@ -18,6 +12,12 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <p style="text-align:center;"><i>Photo by <a href = "https://unsplash.com/@lianhao">Lianhao Qu</a>. | <a href = "https://unsplash.com/terms">Unsplash License</a></i></p>
 <p>&nbsp;</p>
 
+<script>
+    function go(loc){
+    console.log(loc);
+        document.getElementById('iframe').src = loc;
+    }
+</script>
 <div class="logins_details_container"><!--The top container-->
     <iframe id="iframe" src="home_schedule_iframe.php" width="100%" height="100%"></iframe>
 </div>  
