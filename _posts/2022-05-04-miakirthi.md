@@ -18,7 +18,8 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 
 <p>&nbsp;</p>
 
-<iframe src="/conflict_urbanism_sp2022/images/surv - treemap.html" style="position:absolute;top:0;left:0;width:100%;height:300px;" frameborder="0"></iframe>
+<iframe src="/conflict_urbanism_sp2022/images/surv - treemap.html" style="position:relative;top:0;left:0;width:100%;height:300px;" frameborder="0"></iframe>
+
 <p>&nbsp;</p>
 
 <p><span>The deployment of police surveillance has hierarchical jurisdiction and data flows. The local level data collected by city police departments flow upwards into state and federal law enforcement agencies’ intelligence systems. At the top of the hierarchy is the federal homeland security intelligence offices that have access to a vast and robust system of intelligence analysis, informed by data collected by cities and states across the nation. 
