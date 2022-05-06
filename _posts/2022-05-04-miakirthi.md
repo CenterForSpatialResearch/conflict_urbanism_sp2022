@@ -1,9 +1,9 @@
 ---
 layout: post
-date:   2022-01-01
+date:   2022-05-04
 image: "/conflict_urbanism_sp2022/images/csr_thumbnail.png"
-title:  "Template Post: Title of Your Final Project"
-author: "Names Of Everyone In Your Group"
+title:  "Street-Level Surveillance: An Urban Panopticon"
+author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 ---
 This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
