@@ -655,6 +655,7 @@ img.float-left {
 
 #button {
   align-items: center;
+  font: 400 14px/1.5 'Source Sans Pro',"Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   background-color: #FFFFFF;
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: .25rem;
@@ -663,13 +664,12 @@ img.float-left {
   color: rgba(0, 0, 0, 0.85);
   cursor: pointer;
   display: inline-flex;
-  font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 16px;
-  font-weight: 600;
+  font-size: 14px;
+  font-weight: 400;
   justify-content: center;
   line-height: 1.25;
   margin: 0;
-  min-height: 3rem;
+  min-height: 2rem;
   padding: calc(.875rem - 1px) calc(1.5rem - 1px);
   position: relative;
   text-decoration: none;
