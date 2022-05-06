@@ -2,47 +2,97 @@
 layout: post
 date:   2022-05-04
 image: "/conflict_urbanism_sp2022/images/csr_thumbnail.png"
-title:  "Street-Level Surveillance: An Urban Panopticon"
+title:  "Street-Level Surveillance: Public Space into Police State"
 author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 ---
 
-## What is an Urban Panopticon / a surveillance city?  
+### Introduction  
 
-<p><span>A panopticon is a circular prison where a guard is stationed at the center of the building with the ability to see all inmates in cells along the building's circumference. However, the inmates cannot see the guard, obfuscating the known and creating a constant paranoia and sense of always being watched. The indiscriminate use of street-level surveillance technologies in public and private urban spaces can be likened to the surveillance structure of a panopticon.&nbsp;<i>Today's smart cities have become a covert tool for increasing surveillance, corporate profits, and social control.&nbsp;</i></span></p>
-<p>&nbsp;</p>
-### What are we investigating? Why does this matter?  
-<p><span>This study aims to discuss the impact of data collection and surveillance technologies, their increasing privatization, and their inevitable consequences in power imbalances at urban governance level. Through this lens, this study will also attempt to demonstrate the spatial and political implications of employing privately-owned video surveillance and facial recognition technologies by law enforcement agencies. We will focus on three major US cities to study how the cities&rsquo; police forces are deploying privately owned surveillance technology. We hope to draw a connection between the role of private capitalist interests in public policing strategies, and investigate whether the decentralized nature of digital surveillance technologies correlates with urban spatial degradation.</span></p>
-<p><span>Law enforcement agencies are turning to increasingly sophisticated surveillance technologies to closely track and monitor civilians. What were previously only military-grade technologies are now being deployed at the street-level, making cities&nbsp;a targeted landscape for data extraction. We believe that&nbsp;<i>&ldquo;city governments eager to take advantage of new technologies must act as responsible gatekeepers and public stewards in structuring their technology to protect equity and fundamental rights.&rdquo;</i><i></i></span></p>
-
+<p><span>Today, cities across the world are developing under an unprecedented scale and sophistication of digital tools, becoming rapidly  and seamlessly integrated within our urban infrastructures. Invisible systems of digital interconnectedness track and analyze vast amounts of information about people—supposedly to apply data-informed solutions to urban issues. Law enforcement agencies increasingly adopt surveillance technologies as a tactic to reduce crime and increase security in our communities; however, the indiscriminate use of street-level, military-grade surveillance technologies have begun to blur the lines between security and oppression in our public spaces. &nbsp;</i></span></p>
+<p><span>Normal people going about ordinary life in the city are being implicated in a massive data extraction operation at every stoplight, intersection, subway station—disproportionately affecting marginalized communities. <i>This project investigates the US law enforcement’s use of public urban space as a covert tool for a massive data extraction operation, and how it conflicts with privacy in modern urban life.</i> &nbsp;</i></span></p>
 <p>&nbsp;</p>
 
+### Surveillance Technology Distribution & Data Flows 
+<p><span> A vast majority of the nation’s surveillance technology is deployed by city police department agencies and sheriffs offices, compared to other law enforcement agencies. This city-level deployment of surveillance technology implicates cities across the US as the primary scope and jurisdiction at which data extraction occurs. The geographic boundary of the city is being used to facilitate and serve the police state
+</span></p>
 
-### Looking at Police Surveillance Data
-<p><span>The Atlas of Surveillance Dataset is a compilation and organization of already existing open-source information&mdash; an effort conducted by the Electronic Frontier foundation the Reynolds School of Journalism at the University of Nevada, Reno. The data collection process consists of crowdsourcing and data aggregation. The crowdsourcing data collection uses a tool called &lsquo;Report Back&rsquo; which automatically distributes data research assignments to volunteers and students. More than 800 students and volunteers since November of 2021 have contributed to this research. The data aggregation aspect consists of collecting and reorganizing information already compiled on other public surveillance technology datasets.</span></p>
-<p><span>A major limitation of this dataset is that sources providing the data are likely not always reliable and accurate. For example, a government agency data source may selectively choose which data to share, and which data to withhold. Journalism-sourced data may have been misinterpreted during the reporting process.&nbsp;</span></p>
 <p>&nbsp;</p>
 
-</p>
+<iframe src="/conflict_urbanism_sp2022/images/surv - treemap.html" style="border-width: 0px;left: 50%;right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw; height:1050px;
+  position: relative;" scrolling="no"></iframe>
+<p>&nbsp;</p>
+
+<p><span>The deployment of police surveillance has hierarchical jurisdiction and data flows. The local level data collected by city police departments flow upwards into state and federal law enforcement agencies’ intelligence systems. At the top of the hierarchy is the federal homeland security intelligence offices that have access to a vast and robust system of intelligence analysis, informed by data collected by cities and states across the nation. 
+&nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<iframe src="/conflict_urbanism_sp2022/images/surv - sankey.html" style="border-width: 0px;left: 50%;right: 50%;
+  margin-left: 50vw;
+  margin-right: 50vw;
+  max-width: 100vw; height:550px;
+  position: relative;" scrolling="no"></iframe>
+<p>&nbsp;</p>
 
 
-### Technologies used by Police:  
-<p><span style="font-size: 13pt;"><strong>Cell Site Simulator </strong></span></p>
-<p><span>Cell Site Simulators, more commonly known as &ldquo;Stringrays&rdquo; or international mobile subscriber identity-catchers ( IMSI catchers), are utilized by police without warrants to eavesdrop and intercept SMS messages, cell phone calls, and other mobile traffic. Cell Site Simulators trick phones to connect to them by pretending to be a traditional cell-phone tower. Some countries such as Germany strictly regulate Cell Site Simulator due to civil privacy and liberty concerns. </span></p>
-<p><span style="font-size: 13pt;"><strong>Drones </strong></span></p>
-<p><span>Drones, also known as Unmanned Aerial Vehicles, are aircrafts controlled remotely or automatically without anyone on board. Using sensors and Global Positioning Software (GPS), drones navigate the skies while capturing highly precise data. At the base level, drones capture high-definition photo and video footage as well as precise geo-located data. Drones adopted by law enforcement agencies are additionally equipped with sophisticated data extraction and surveillance technologies that are capable of detecting landscape topography data, collecting license plate information, intercepting cell phone calls, and reading biometric data for facial recognition. </span></p>
-<p><span style="font-size: 13pt;"><strong>Body Cameras </strong></span></p>
-<p><span>Body cameras are small cameras clipped onto the uniform of a police officer&rsquo;s chest or worn as a headset. Data collected from police body cameras include video and audio footage, time stamps of incidents with the public, and are often equipped with bluetooth and live-streaming software, facial recognition. Body cameras are a double edged sword&mdash;serving as a both public accountability tool and a surveillance strategy at once. </span></p>
-<p><span style="font-size: 13pt;"><strong>CCTV&rsquo;s + Traffic Cams</strong> </span></p>
-<p><span>Live, high-speed traffic video footage from cameras mounted on street intersection infrastructure. Footage includes location, timestamp, automated license plate reader (ALPR) software, and facial recognition software. </span></p>
-<p><span style="font-size: 13pt;"><strong>Home Cams</strong> </span></p>
-<p><span>Private companies that provide security camera surveillance, often in the front entryway area of a person&rsquo;s home. Law enforcement have been requesting civilians to share their private footage with public police departments in order to further criminal investigative cases. Home cams are a special case of law enforcement using non-government owned surveillance technology. </span></p>
-<p><span style="font-size: 13pt;"><strong>Facial Recognition</strong> </span></p>
-<p><span>Facial recognition technology matches an individual's identity using software that compares photos, videos, or in real-time facial biometric data. Facial recognition software is often connected to surveillance cameras distributed throughout smart cities, identifying and tracking individuals as they move throughout the city. </span></p>
-<p><span style="font-size: 13pt;"><strong>Predictive Policing</strong></span></p>
-<p><span>Predictive policing is an analysis of crime-related data and software used by police departments to preemptively decide which groups of people and which neighborhoods should be given more police presence. Large sets of data are analyzed with machine learning and artificial intelligence algorithms. </span><strong></strong></p>
-<p><span style="font-size: 13pt;"><strong>Video Analytics </strong></span></p>
+<p><span>Surveillance technologies can be broken down into two main categories, data extraction tools and data analytical tools. Data extraction tools are surveillance devices deployed into public spaces to collect data from its environment. Data analytical tools are software that analyze and predict trends based on the data collected by the data extraction tools.  
+&nbsp;</span></p>
 
-<p><span>Computer software used in combination with video footage from surveillance cameras to analyze information such as facial identification, movement patterns, etc.</span></p>
+<p><span>Information collected by data extraction tools flow into many different types of data analysis softwares that overlap and interlock to create a powerful security network operation. The data alone is not necessarily where the most dangerous consequences lie— it is when the data is input into a series of sophisticated analytical software software, at which the data becomes significantly more dangerous. Data analysis and predictions made by law enforcement. These analysis softwares are often equipped with machine learning and artificial intelligence (AI) technologies which essentially teach computers how to understand what data means, and predict what trends and behaviors will occur in the future.  Facial recognition, predictive policing, and other analytics reinforce racial bias when they “learn” from historic crime-related datasets —which are fraught with discriminatory practices. Trevor Paglen, an American artist known for his work in digital surveillance, described racism in AI as “not a bug, but a feature,” in an interview. Machines learn from humans— and human history is inextricable from racism and abuse. Feeding these data as input into a computer language will teach the computer to speak that racist language. 
+&nbsp;</span></p>
+
+<p><span>When looking at the top types of technologies used by agencies across the US, large urban areas at the periphery of the country more commonly deploy analytical tools, including Los Angeles, San Francisco, New York City, Florida, Atlanta, and Chicago. 
+&nbsp;</span></p>
+
+<p>&nbsp;</p><iframe src="/conflict_urbanism_sp2022/images/surv - tech map.html" style="border-width: 0px;left: 50%;right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw; height:550px;
+  position: relative;" scrolling="no"></iframe><p>&nbsp;</p>
+  
+<p><span>When looking at the top types of technologies used by agencies across the US, large urban areas at the periphery of the country more commonly deploy analytical tools, including Los Angeles, San Francisco, New York City, Florida, Atlanta, and Chicago. 
+&nbsp;</span></p>
+
+<p>&nbsp;</p><iframe src="/conflict_urbanism_sp2022/images/surv - num map.html" style="border-width: 0px;left: 50%;right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw; height:550px;
+  position: relative;" scrolling="no"></iframe><p>&nbsp;</p>
+
+
+### Private Technology Vendors: Domestic And International Firms:  
+
+<p><span>US law enforcement surveillance technologies operate in an immense network of public-private partnerships—government agencies deploy the surveillance technologies across the nation, and private technology firms manufacture them. The power held in surveillance systems is largely related to who owns and accesses the data; private firms in the US that manufacture law enforcements’ technologies can use the generated civic data generated for their own interests. 
+&nbsp;</span></p>
+
+<p>&nbsp;</p><iframe src="/conflict_urbanism_sp2022/images/surv - US vendor map.html" style="border-width: 0px;left: 50%;right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw; height:550px;
+  position: relative;" scrolling="no"></iframe><p>&nbsp;</p>
+
+<p><span>Connecting the types of US agencies’ surveillance technologies, the vendor for each technology, and the origin or headquarters of each vendor showed the murky supply chains behind. Vendors had both domestic and international origins.  
+&nbsp;</span></p>
+
+
+<p>&nbsp;</p>
+<iframe src="/conflict_urbanism_sp2022/images/surv - US vendor hist.html" style="border-width: 0px;left: 50%;right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw; height:550px;
+  position: relative;" scrolling="no"></iframe>
+<p>&nbsp;</p>
+
+<p><span>A large majority of US-made surveillance technology is manufactured in Santa Monica, California. This is because Ring, Amazon’s home surveillance camera system, has partnerships with about 1,332  different law enforcement agencies, comprising a large proportion of domestic-based surveillance technology. Ring is Amazon's smart home security system, where users install Ring surveillance cameras at their front doors and may choose to partake in Neighbors, Ring’s social media app. The app, known as the“new neighborhood watch,” allows neighbors to report “suspicious activities” within a certain radius of their home’s location. Ring’s local security communities and its many police partnerships form a network of neighborhood surveillance<a href="#1"><sup>1</sup></a>. Amazon has been criticized for collecting an enormous amount of data from Ring users, not disclosing the full details of its partnership with law enforcement, and for reinforcing the racial biases of the communities that use it.  
+&nbsp;</span></p>
+
+<p><span>“Ring sells a very particular message: while you shouldn’t trust your neighbors, you can trust Amazon to help police it.”<a href="#2"><sup>2</sup></a>Though individual homes’ front doorsteps are not public space, the combined footage from different users throughout a neighborhood creates hyperlocal, intimate surveillance networks, accessible to police departments. Police departments did not previously have such small-scale surveillance access of neighborhoods, front lawns, and neighbors’ behavioral interactions. Smaller community-scale public spaces are now being privatized through smart home surveillance technology and sold to public agencies. Amazon’s combined database from its expansive e-commerce distribution network and its Ring-Neighbors surveillance network  creates a massive dataset, highly tied to locational city data.  
+&nbsp;</span></p>
+
 <p>&nbsp;</p>
 
 
@@ -53,8 +103,12 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
   position: relative;" scrolling="no"></iframe>
 <p>&nbsp;</p>
 
+<p><span>When looking at international vendors of US surveillance technology, China stands out as the most prominent vendor—almost entirely due to DJI drone manufacturing. Internationally manufactured, US-deployed surveillance technologies have significant data privacy implications because most countries have different data privacy policies. In China, every technology company is legally required to turn in any collected data to the Chinese government. </span></p>
 
-<p><span>Computer software used in combination with video footage from surveillance cameras to analyze information such as facial identification, movement patterns, etc.</span></p>
+<p><span>DJI, the Chinese tech company responsible for manufacturing a majority of the US law enforcement agencies’ drones, was recently added to the US Department of Treasury’s investment blacklist after discovery of DJI’s role in the surveillance of the Uyghur Muslim population in the Xinjiang Region’s concentration camps<a href="#3"><sup>3</sup></a>. Cyber security researchers have since found the data collected from DJI aligns with Chinese government surveillance practices, which require drones to be linked to a user’s identity,” giving the government access to images, videos, biometric data, location data, and all other data generated by drones<a href="#4"><sup>4</sup></a>. The US federal government has largely stopped using drones manufactured by Chinese companies, although state and local-level enforcement continues to deploy them.</span></p>
+
+<p><span>When Chinese drones fly over public spaces in the US—like the 2020 incident in Minneapolis during which a homeland security drone flew over a George Floyd protest—it is unclear if Americans’ data is being extracted and sent to the vendor’s homeland databases. Many are suspicious that the Chinese government has full access to Americans’ data but these claims are hard to confirm, as technology firms go to great lengths to keep their information about their data flows, uses, and applications private.</span></p>
+
 <p>&nbsp;</p>
 
 
@@ -68,13 +122,6 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-<iframe src="/conflict_urbanism_sp2022/images/surv - US vendor hist.html" style="border-width: 0px;left: 50%;right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  max-width: 100vw; height:550px;
-  position: relative;" scrolling="no"></iframe>
-<p>&nbsp;</p>
   
 <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
 
