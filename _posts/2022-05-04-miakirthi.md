@@ -111,76 +111,20 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 
 <p>&nbsp;</p>
 
+### Control & Regulate Surveillance  
 
-<iframe src="/conflict_urbanism_sp2022/images/surv - US vendor map.html" style="border-width: 0px;left: 50%;right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  max-width: 100vw; height:1050px;
-  position: relative;" scrolling="no"></iframe>
-<p>&nbsp;</p>
-  
-<p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
-<p>&nbsp;</p>
+<p><span>Surveillance technologies and data collection in public spaces are not inherently bad. Surveillance technology is just a tool, and data is a type of information. It is only through the specific ways and contexts through which surveillance tools and public information are used that weaponize them. Body-worn cameras are an example of this—body camera footage can be used to surveil people who police interact with and third parties who may have no knowledge  that they are being monitored. The footage can also be combined with analytics software, such as facial recognition. However, when there is police misconduct or an abuse of power, body camera footage can be used to hold police accountable. In criminal investigations, video footage serves as extremely valuable evidence that helps build and strengthen cases. For example, when Derek Chauvin was pressing his knee into George Floyd’s neck in May of 2020, Darnella Frazier took out her phone and recorded the murder, because “[she] knew if [she] didn’t, no one would believe [her].”<a href="#5"><sup>5</sup></a> Frazier surveilled the police officer— and her video served as powerful evidence for criminal charges for four police officers and the conviction of Chauvin.  
+&nbsp;</span></p>
 
-  
-<p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
+<p><span>Surveillance technologies have the capacity to improve city life and safety— but only if strictly controlled and regulated. Government needs to hold its own agencies accountable in a regulatory and technological balance. Regulations such as the 2022 NYC Geolocation Tracking Ban bill must be advocated for and enacted. The bill proposes that search of geo-tagged data of anyone who is not under criminal suspicion is prohibited.<a href="#6"><sup>6</sup></a>  Bottom-up advocacy for civic privacy is crucial—local nonprofit groups such as the Surveillance Technology Oversight Project do important work to abolish local governments’ mass surveillance through advocacy, litigation, and education.<a href="#7"><sup>7</sup></a> Additionally, data security infrastructure, such as Civic Data Trusts and blockchain technology can help to address issues of transparency, accountability, and privacy. Civic Data Trusts employ civic participation and an independent trustee to make unbiased data-related decisions. Blockchain technology can decentralize the storage of data into an encrypted ledger, which makes data immutable and far less likely to enter the hands of actors with ulterior motives.   
+&nbsp;</span></p>
 
-<p>&nbsp;</p>
-<iframe src="/conflict_urbanism_sp2022/images/surv - num map.html" style="border-width: 0px;left: 50%;right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  max-width: 100vw; height:550px;
-  position: relative;" scrolling="no"></iframe>
+### Conclusion  
+
+<p><span>Surveillance technologies and data collection in public spaces are not inherently bad. Surveillance technology is just a tool, and data is a type of information. It is only through the specific ways and contexts through which surveillance tools and public information are used that weaponize them. Body-worn cameras are an example of this—body camera footage can be used to surveil people who police interact with and third parties who may have no knowledge  that they are being monitored. The footage can also be combined with analytics software, such as facial recognition. However, when there is police misconduct or an abuse of power, body camera footage can be used to hold police accountable. In criminal investigations, video footage serves as extremely valuable evidence that helps build and strengthen cases. For example, when Derek Chauvin was pressing his knee into George Floyd’s neck in May of 2020, Darnella Frazier took out her phone and recorded the murder, because “[she] knew if [she] didn’t, no one would believe [her].”<a href="#5"><sup>5</sup></a> Frazier surveilled the police officer— and her video served as powerful evidence for criminal charges for four police officers and the conviction of Chauvin.  
+&nbsp;</span></p>
 <p>&nbsp;</p>
 
-
-<p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
-<p>&nbsp;</p>
-
-<div class="iframe-column"><iframe src="/conflict_urbanism_sp2022/images/surv - sankey.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" scrolling="no"></iframe></div>  
-<p>&nbsp;</p>
-
-
-<p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
-<p>&nbsp;</p>
-<iframe src="/conflict_urbanism_sp2022/images/surv - sankey.html" style="border-width: 0px;left: 50%;right: 50%;
-  margin-left: 50vw;
-  margin-right: 50vw;
-  max-width: 100vw; height:550px;
-  position: relative;" scrolling="no"></iframe>
-<p>&nbsp;</p>
-  
-### Implications of International Firms and Data:
-<p><span style="font-size: 13pt;"><strong>Drones and China</strong></span></p>
-<p><span style="font-weight: 400;">Drone-generated data also enables national security threats. DJI, the Chinese tech company responsible for manufacturing a majority of the US law enforcement agencies&rsquo; drones, was recently added to the US Department of Treasury&rsquo;s investment blacklist after information was uncovered regarding DJI&rsquo;s role in surveilling the Uyghur Muslim population in the Xinjiang Region&rsquo;s concentration camps. Cyber security researchers have since found the data collected from DJI aligns with Chinese government surveillance practices, which require drones to be linked to a user&rsquo;s identity,&rdquo; giving the Chinese government access to images, videos, biometric data, location data, and all other data generated by drones. The US federal government has largely stopped using drones manufactured by Chinese companies, although state and local-level enforcement continues to deploy them. DJI&rsquo;s case reflects the increasing security risk of international data leaks resulting from the surveillance technology sector in the US&mdash;even if a technology gets banned, the data already generated from them persists, likely in intelligence offices abroad that closely monitor the data</span><strong>.</strong></p>
-<p><span style="font-size: 13pt;"><strong>Facial Recognition and France</strong></span></p>
-<p><span style="font-weight: 400;">We found IDEMIA, to be the top outsourced facial recognition software vendor for US law enforcement. IDEMIA is a french identity- verification security services company that collects highly sensitive personally identifiable information such as drivers licenses, passports, and biometric data. However, in 2021, a former top IDEMIA executive, Charles Carroll, filed a lawsuit against IDEMIA, claiming that the company exposed millions of Americans&rsquo; personally identifiable information by allowing foreign software developers to use the data to create certain apps that are used by US citizens. Carroll claimed that the software&rsquo;s security had been compromised when the company agreed to exploit data for potential profits.</span></p>
-
-
-<iframe src="/conflict_urbanism_sp2022/images/surv - tech map.html" style="border-width: 0px;left: 50%;right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  max-width: 100vw; height:550px;
-  position: relative;" scrolling="no"></iframe>
-### Regulations  
-<p><span>At the current status quo, federal policy lacks a framework to regulate how governmental agencies may use surveillance technologies and data. Although aerial surveillance is almost ubiquitously used by law enforcement across the nation, Officials do not need to obtain search warrants when it comes to many surveillance operations such as flying drones over civilians.</span></p>
-<p><span>Stored Communications Act of 1986: federal law that prohibits an &ldquo;electronic communications service provider&rdquo; from &ldquo;sharing users communication and account records, subject to a list of exceptions.&rdquo; There's an exception for law enforcement, but none for defendants. Police can protect themselves, but individuals cant.</span></p>
-<p><span style="font-size: 13pt;"><strong>Proposed Legislation</strong></span></p>
-<p><span>Restricting drone usage by law enforcement is an important first step toward regulating data and privacy from drones.&nbsp;In 2021, Senator Jessica Ramos and Representative Ron Kim proposed a Senate Bill S675 and Assembly Bill A3311 to establish the &ldquo;protect our privacy (POP) act.&rdquo;&nbsp;The bill proposes that law enforcement officials be federally required to obtain a warrant before deploying a drone to surveil any protest, demonstration, or investigation, and that drone footage is not linked to facial recognition software.&nbsp;</span></p>
-<p><span>Legislators and technologists must also consider increasing the transparency of the process by which local police departments acquire drones. In NYC, the NYPD can currently utilize an appropriations loophole to pay for an unlimited number of drones using federal grants and private donations without any prior local oversight.</span></p>
-<p>&nbsp;</p>
-### In the news  
-<p><span style="font-size: 13pt;"><strong>Clearview Facial Recognition Software</strong></span></p>
-<p><span>Clearview is a facial recognition firm widely used by police departments around the nation, including NYPD and police departments in California and Texas. Clearview claims to be the &ldquo;worlds&rsquo; largest facial network&rdquo; trusted by law enforcement, but non-consensually collects billions of images of faces from online accounts such as Venmo, Facebook, and Youtube.</span></p>
-<p><span style="font-size: 13pt;"><strong>Derrick Ingram & Facial Recognition, Minneapolis, 2020</strong></span></p>
-<p><span>In August 2020, the NYPD used facial recognition to track down a Black Lives Matter protestor, Derrick Ingram. Ingram was a leader in NYC&rsquo;s BLM demonstrations and did much of the digital organizing and educated protestors on the risks of cell phone taps and social media monitoring. Police used a photo from Ingrams Instagram page to match his identity, and later showed up outside of his apartment with drones hovering over his roof, urging Ingram to voluntarily surrender.&nbsp;the NYPD has used facial recognition in at least 22,000 cases since 2017</span></p>
-<p><span style="font-size: 13pt;"><strong>BLM Protests & Drones, Minneapolis, 2020</strong></span></p>
-<p><span>Many believe that the data generated and monitored as a result of drone surveillance poses significant privacy threats to citizens as well as security threats to the nation. During the 2020 George Floyd protests in Minneapolis, US Customs and Border Protection quietly flew a drone over protestors, raising concerns about civic data privacy.&nbsp;Though the drones allegedly did not collect facial recognition or other personally-identifiable data from protestors, an investigation from MIT Technology Review uncovered evidence that law enforcement in Minneapolis built a sophisticated real-time data-sharing system that exchanged information about protestors with SWAT and command centers. Thousands of protestors, most of whom were not engaged in illegal activities, were subject to their sensitive data being mass-extracted from them without search warrants.&nbsp;</span></p>
-<p>&nbsp;</p>
-### Control surveillance&mdash; not no surveillance  
-<p><span>Though surveillance technologies and data extraction can be extremely dangerous, it would be an oversight not to address their positive impacts and capacity to improve city life and safety. Surveillance cameras can keep an eye out for crime in public spaces and hold those involved accountable. In criminal investigations, video footage serves as extremely valuable&nbsp; evidence that helps build and strengthen cases. Data collected and analysis about our cities can help inform service improvements and make systems and processes much more time, money, and energy efficient.&nbsp;</span></p>
-<p><span>Surveillance technologies can be effectively utilized to serve the public good. We are not saying no surveillance, we are saying control surveillance. When George Floyd was being killed, the police officer was being surveilled by Darnella Frazier, the woman who video recorded the officer. When there is an abuse of power, surveillance technologies also have the capacity to hold abusers accountable.</span></p>
-<p>&nbsp;</p>
 ### Sources
 <p><span style="font-weight: 400;">Atlas of Surveillance Dataset, Electric Frontier Foundation, Accessed April 13, 2022. <a href="https://atlasofsurveillance.org/library">https://atlasofsurveillance.org/library</span></a><span style="font-weight: 400;">.</span></p>
 <p><span style="font-weight: 400;">BBC News. &ldquo;US Sanctions Drone-Maker DJI,&rdquo; December 17, 2021, sec. Technology.</span><a href="https://www.bbc.com/news/technology-59703521"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">https://www.bbc.com/news/technology-59703521</span></a><span style="font-weight: 400;">.</span></p>
