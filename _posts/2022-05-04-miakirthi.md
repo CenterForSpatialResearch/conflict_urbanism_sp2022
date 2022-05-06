@@ -69,7 +69,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <p>&nbsp;</p><iframe src="/conflict_urbanism_sp2022/images/surv - US vendor map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
-  max-width: 100vw; height:550px;
+  max-width: 100vw; height:1050px;
   position: relative;" scrolling="no"></iframe><p>&nbsp;</p>
 
 <p><span>Connecting the types of US agencies’ surveillance technologies, the vendor for each technology, and the origin or headquarters of each vendor showed the murky supply chains behind. Vendors had both domestic and international origins.  
