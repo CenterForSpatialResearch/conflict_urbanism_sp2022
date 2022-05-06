@@ -9,8 +9,6 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <p style="text-align:center;"><i>For the best experience, please view on desktop.</i></p>
 <p>&nbsp;</p>
 
-### Introduction  
-
 <p><span>Today, cities across the world are developing under an unprecedented scale and sophistication of digital tools, becoming rapidly  and seamlessly integrated within our urban infrastructures. Invisible systems of digital interconnectedness track and analyze vast amounts of information about people—supposedly to apply data-informed solutions to urban issues. Law enforcement agencies increasingly adopt surveillance technologies as a tactic to reduce crime and increase security in our communities; however, the indiscriminate use of street-level, military-grade surveillance technologies have begun to blur the lines between security and oppression in our public spaces. &nbsp;</span></p>
 <p><span>Normal people going about ordinary life in the city are being implicated in a massive data extraction operation at every stoplight, intersection, subway station—disproportionately affecting marginalized communities.&nbsp;</span></p>
 <p>&nbsp;</p>
@@ -105,7 +103,7 @@ This project investigates the US law enforcement’s use of public urban space a
 <p style="text-align:center;"><i>Conflict Urbanism 2022 | Partial Data from <a href = "#1">Atlas of Surveillance</a>.</i></p>
 <p>&nbsp;</p>
 
-### Private Technology Vendors: Domestic And International Firms:  
+### Private Technology Vendors: Domestic & International Firms
 
 <p><span>US law enforcement surveillance technologies operate in an immense network of public-private partnerships—government agencies deploy the surveillance technologies across the nation, and private technology firms manufacture them. The power held in surveillance systems is largely related to who owns and accesses the data; private firms in the US that manufacture law enforcements’ technologies can use the generated civic data generated for their own interests. 
 &nbsp;</span></p>
