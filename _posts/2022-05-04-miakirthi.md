@@ -74,8 +74,8 @@ This project investigates the US law enforcement’s use of public urban space a
 
 <div class="button-center">
   <form>
-    <input type="button" name="iframe" value="Agency-wise" onClick= "go('/conflict_urbanism_sp2022/images/surv - tech map.html')"/>
-    <input type="button" name="iframe" value="State-wise" onClick = "go('/conflict_urbanism_sp2022/images/surv - num map.html')"/>
+    <input type="button" name="iframe" value="Agency-wise" id="button" onClick= "go('/conflict_urbanism_sp2022/images/surv - tech map.html')"/> &nbsp;
+    <input type="button" name="iframe" value="State-wise" id="button" onClick = "go('/conflict_urbanism_sp2022/images/surv - num map.html')"/>
   </form>
 </div>
 
