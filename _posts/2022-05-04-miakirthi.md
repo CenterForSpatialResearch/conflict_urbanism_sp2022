@@ -92,6 +92,16 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 
 <div class="iframe-column"><iframe src="/conflict_urbanism_sp2022/images/surv - sankey.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" scrolling="no"></iframe></div>  
 <p>&nbsp;</p>
+
+
+<p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
+<p>&nbsp;</p>
+<iframe src="/conflict_urbanism_sp2022/images/surv - sankey.html" style="border-width: 0px;left: 50%;right: 50%;
+  margin-left: 50vw;
+  margin-right: 50vw;
+  max-width: 100vw; height:550px;
+  position: relative;" scrolling="no"></iframe>
+<p>&nbsp;</p>
   
 ### Implications of International Firms and Data:
 <p><span style="font-size: 13pt;"><strong>Drones and China</strong></span></p>
