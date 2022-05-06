@@ -28,10 +28,10 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
-<iframe src="/conflict_urbanism_sp2022/images/surv - sankey.html" style="border-width: 0px;left: 50%;right: 50%;
+<iframe src="/conflict_urbanism_sp2022/images/surv - sankey.html" style="border-width: 0px;left: 15%;right: 15%;
   margin-left: -15vw;
   margin-right: -15vw;
-  max-width: 100vw; height:550px;
+  max-width: 100vw; height:600px;
   position: relative;" scrolling="no"></iframe>
 <p>&nbsp;</p>
 
