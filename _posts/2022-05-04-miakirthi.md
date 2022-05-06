@@ -79,6 +79,8 @@ This project investigates the US law enforcement’s use of public urban space a
   </form>
 </div>
 
+<link rel="preload" href="/conflict_urbanism_sp2022/images/surv - num map.html" as="document">
+
 <p>&nbsp;</p>
 <iframe id="iframe" src="/conflict_urbanism_sp2022/images/surv - tech map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
