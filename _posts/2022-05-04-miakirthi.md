@@ -12,22 +12,6 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <p style="text-align:center;"><i>Photo by <a href = "https://unsplash.com/@lianhao">Lianhao Qu</a>. | <a href = "https://unsplash.com/terms">Unsplash License</a></i></p>
 <p>&nbsp;</p>
 
-<script>
-    function go(loc){
-    console.log(loc);
-        document.getElementById('iframe').src = loc;
-    }
-</script>
-<div class="logins_details_container"><!--The top container-->
-    <iframe id="iframe" src="home_schedule_iframe.php" width="100%" height="100%"></iframe>
-</div>  
-<div class="iframe_container">
-    <form>
-        <input type="radio" name="iframe" value="type" onClick= "go('https://centerforspatialresearch.github.io/conflict_urbanism_sp2022/images/surv%20-%20vendor%20map.html')"/>Maths<br>
-        <input type="radio" name="iframe" value="type" onClick = "go('https://facebook.com')"/>ICT
-    </form>
-</div>
-
 ### Introduction  
 
 <p><span>Today, cities across the world are developing under an unprecedented scale and sophistication of digital tools, becoming rapidly  and seamlessly integrated within our urban infrastructures. Invisible systems of digital interconnectedness track and analyze vast amounts of information about people—supposedly to apply data-informed solutions to urban issues. Law enforcement agencies increasingly adopt surveillance technologies as a tactic to reduce crime and increase security in our communities; however, the indiscriminate use of street-level, military-grade surveillance technologies have begun to blur the lines between security and oppression in our public spaces. &nbsp;</span></p>
@@ -77,6 +61,26 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 
 <p><span>When looking at the top types of technologies used by agencies across the US, large urban areas at the periphery of the country more commonly deploy analytical tools, including Los Angeles, San Francisco, New York City, Florida, Atlanta, and Chicago. 
 &nbsp;</span></p>
+
+<script>
+    function go(loc){
+    console.log(loc);
+        document.getElementById('iframe').src = loc;
+    }
+</script>
+<div class="logins_details_container"><!--The top container-->
+    <iframe id="iframe" src="/conflict_urbanism_sp2022/images/surv - tech map.html" style="border-width: 0px;left: 50%;right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw; height:550px;
+  position: relative;" scrolling="no"></iframe>
+</div>  
+<div class="iframe_container">
+    <form>
+        <input type="button" name="iframe" value="type" onClick= "go('/conflict_urbanism_sp2022/images/surv - tech map.html')"/>Agency-wise<br>
+        <input type="button" name="iframe" value="type" onClick = "go('/conflict_urbanism_sp2022/images/surv - num map.html')"/>State-wise
+    </form>
+</div>
 
 <p>&nbsp;</p><iframe src="/conflict_urbanism_sp2022/images/surv - tech map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
