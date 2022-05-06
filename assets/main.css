@@ -646,3 +646,9 @@ img.float-left {
   height: 30vw;
   margin-bottom: 12;
 }
+
+/* Kirthi added */
+
+.button-center {
+  text-align: center;
+}
