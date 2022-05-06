@@ -8,17 +8,19 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 
 <p style="text-align:center;"><i>For the best experience, please view on desktop.</i></p>
 <p>&nbsp;</p>
-<img src="/conflict_urbanism_sp2022/images/surv - 1.jpg">
-<p style="text-align:center;"><i>Photo by <a href = "https://unsplash.com/@lianhao">Lianhao Qu</a>. | <a href = "https://unsplash.com/terms">Unsplash License</a></i></p>
-<p>&nbsp;</p>
 
 ### Introduction  
 
 <p><span>Today, cities across the world are developing under an unprecedented scale and sophistication of digital tools, becoming rapidly  and seamlessly integrated within our urban infrastructures. Invisible systems of digital interconnectedness track and analyze vast amounts of information about people—supposedly to apply data-informed solutions to urban issues. Law enforcement agencies increasingly adopt surveillance technologies as a tactic to reduce crime and increase security in our communities; however, the indiscriminate use of street-level, military-grade surveillance technologies have begun to blur the lines between security and oppression in our public spaces. &nbsp;</span></p>
 <p><span>Normal people going about ordinary life in the city are being implicated in a massive data extraction operation at every stoplight, intersection, subway station—disproportionately affecting marginalized communities.&nbsp;</span></p>
 <p>&nbsp;</p>
-> This project investigates the US law enforcement’s use of public urban space as a covert tool for a massive data extraction operation, and how it conflicts with privacy in modern urban life.
+This project investigates the US law enforcement’s use of public urban space as a covert tool for a massive data extraction operation, and how it conflicts with privacy in modern urban life.
+
 <p>&nbsp;</p>
+<img src="/conflict_urbanism_sp2022/images/surv - 4.png">
+<p style="text-align:center;"><i>Base Image by <a href = "https://unsplash.com/@alexkixa">Alexandre Debiève</a>. | <a href = "https://unsplash.com/terms">Unsplash License</a></i></p>
+<p>&nbsp;</p>
+
 
 ### Surveillance Technology Distribution & Data Flows 
 <p><span> A vast majority of the nation’s surveillance technology is deployed by city police department agencies and sheriffs offices, compared to other law enforcement agencies. This city-level deployment of surveillance technology implicates cities across the US as the primary scope and jurisdiction at which data extraction occurs. The geographic boundary of the city is being used to facilitate and serve the police state
@@ -68,21 +70,21 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
         document.getElementById('iframe').src = loc;
     }
 </script>
-<div class="logins_details_container"><!--The top container-->
-    <iframe id="iframe" src="/conflict_urbanism_sp2022/images/surv - tech map.html" style="border-width: 0px;left: 50%;right: 50%;
+
+<iframe id="iframe" src="/conflict_urbanism_sp2022/images/surv - tech map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:550px;
   position: relative;" scrolling="no"></iframe>
-</div>  
-<div class="iframe_container">
-    <form>
-        <input type="button" name="iframe" value="type" onClick= "go('/conflict_urbanism_sp2022/images/surv - tech map.html')"/>Agency-wise<br>
-        <input type="button" name="iframe" value="type" onClick = "go('/conflict_urbanism_sp2022/images/surv - num map.html')"/>State-wise
-    </form>
-</div>
 
-<p>&nbsp;</p><iframe src="/conflict_urbanism_sp2022/images/surv - tech map.html" style="border-width: 0px;left: 50%;right: 50%;
+<form>
+    <input type="button" name="iframe" value="Agency-wise" onClick= "go('/conflict_urbanism_sp2022/images/surv - tech map.html')"/><br>
+    <input type="button" name="iframe" value="State-wise" onClick = "go('/conflict_urbanism_sp2022/images/surv - num map.html')"/> 
+</form>
+
+<p>&nbsp;</p>
+
+<iframe src="/conflict_urbanism_sp2022/images/surv - tech map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:550px;
@@ -160,6 +162,11 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 
 <p><span>Surveillance technologies and data collection in public spaces are not inherently bad. Surveillance technology is just a tool, and data is a type of information. It is only through the specific ways and contexts through which surveillance tools and public information are used that weaponize them. Body-worn cameras are an example of this—body camera footage can be used to surveil people who police interact with and third parties who may have no knowledge  that they are being monitored. The footage can also be combined with analytics software, such as facial recognition. However, when there is police misconduct or an abuse of power, body camera footage can be used to hold police accountable. In criminal investigations, video footage serves as extremely valuable evidence that helps build and strengthen cases. For example, when Derek Chauvin was pressing his knee into George Floyd’s neck in May of 2020, Darnella Frazier took out her phone and recorded the murder, because “[she] knew if [she] didn’t, no one would believe [her].”<a href="#7"><sup>7</sup></a> Frazier surveilled the police officer— and her video served as powerful evidence for criminal charges for four police officers and the conviction of Chauvin.  
 &nbsp;</span></p>
+
+<p>&nbsp;</p>
+<img src="/conflict_urbanism_sp2022/images/surv - 1.jpg">
+<p style="text-align:center;"><i>Photo by <a href = "https://unsplash.com/@lianhao">Lianhao Qu</a>. | <a href = "https://unsplash.com/terms">Unsplash License</a></i></p>
+<p>&nbsp;</p>
 
 <p><span>Surveillance technologies have the capacity to improve city life and safety— but only if strictly controlled and regulated. Government needs to hold its own agencies accountable in a regulatory and technological balance. Regulations such as the 2022 NYC Geolocation Tracking Ban bill must be advocated for and enacted. The bill proposes that search of geo-tagged data of anyone who is not under criminal suspicion is prohibited.<a href="#8"><sup>8</sup></a>  Bottom-up advocacy for civic privacy is crucial—local nonprofit groups such as the Surveillance Technology Oversight Project do important work to abolish local governments’ mass surveillance through advocacy, litigation, and education.<a href="#9"><sup>9</sup></a> Additionally, data security infrastructure, such as Civic Data Trusts and blockchain technology can help to address issues of transparency, accountability, and privacy. Civic Data Trusts employ civic participation and an independent trustee to make unbiased data-related decisions. Blockchain technology can decentralize the storage of data into an encrypted ledger, which makes data immutable and far less likely to enter the hands of actors with ulterior motives.   
 &nbsp;</span></p>
