@@ -56,7 +56,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
 <p>&nbsp;</p>
                                                                                                                  
-<div class="iframe-column"><iframe src="/conflict_urbanism_sp2022/images/surv - US vendor map.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+<div class="iframe-column"><iframe src="/conflict_urbanism_sp2022/images/surv - US vendor map.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" scrolling="no"></iframe></div>  
   
 <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
 <p>&nbsp;</p>
