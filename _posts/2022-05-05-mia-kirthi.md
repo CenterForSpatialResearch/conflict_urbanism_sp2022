@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2022-01-01
-image: "/The-Surveilled-City/images/csr_thumbnail.png"
+image: ""/conflict_urbanism_sp2022/images/csr_thumbnail.png""
 title:  "Street-Level Surveillance: An Urban Panopticon"
 author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 ---
@@ -40,7 +40,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <p><span style="font-size: 13pt;"><strong>Video Analytics </strong></span></p>
 <p><span>Computer software used in combination with video footage from surveillance cameras to analyze information such as facial identification, movement patterns, etc.</span></p>
 
-<iframe src="/The-Surveilled-City/assets/vendor map.html" style="border-width: 0px;left: 50%;right: 50%;
+<iframe src="/conflict_urbanism_sp2022/images/surv - vendor map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:1050px;
@@ -48,7 +48,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 
 <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
 <p>&nbsp;</p>
-<iframe src="/The-Surveilled-City/assets/num map.html" style="border-width: 0px;left: 50%;right: 50%;
+<iframe src="conflict_urbanism_sp2022/images/surv - num map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:550px;
@@ -60,7 +60,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <p><span style="font-weight: 400;">We found IDEMIA, to be the top outsourced facial recognition software vendor for US law enforcement. IDEMIA is a french identity- verification security services company that collects highly sensitive personally identifiable information such as drivers licenses, passports, and biometric data. However, in 2021, a former top IDEMIA executive, Charles Carroll, filed a lawsuit against IDEMIA, claiming that the company exposed millions of Americans&rsquo; personally identifiable information by allowing foreign software developers to use the data to create certain apps that are used by US citizens. Carroll claimed that the software&rsquo;s security had been compromised when the company agreed to exploit data for potential profits.</span></p>
 
 
-<iframe src="/The-Surveilled-City/assets/tech map.html" style="border-width: 0px;left: 50%;right: 50%;
+<iframe src="conflict_urbanism_sp2022/images/surv - tech map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:550px;
