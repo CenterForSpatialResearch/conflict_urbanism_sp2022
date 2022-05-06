@@ -1,3 +1,9 @@
+<script>
+    function go(loc){
+    console.log(loc);
+        document.getElementById('iframe').src = loc;
+    }
+</script>
 ---
 layout: post
 date:   2022-05-04
@@ -5,11 +11,22 @@ image: "/conflict_urbanism_sp2022/images/csr_thumbnail.png"
 title:  "Street-Level Surveillance: Public Space into Police State"
 author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 ---
+
 <p style="text-align:center;"><i>For the best experience, please view on desktop.</i></p>
 <p>&nbsp;</p>
 <img src="/conflict_urbanism_sp2022/images/surv - 1.jpg">
 <p style="text-align:center;"><i>Photo by <a href = "https://unsplash.com/@lianhao">Lianhao Qu</a>. | <a href = "https://unsplash.com/terms">Unsplash License</a></i></p>
 <p>&nbsp;</p>
+
+<div class="logins_details_container"><!--The top container-->
+    <iframe id="iframe" src="home_schedule_iframe.php" width="100%" height="100%"></iframe>
+</div>  
+<div class="iframe_container">
+    <form>
+        <input type="radio" name="iframe" value="type" onClick= "go('https://centerforspatialresearch.github.io/conflict_urbanism_sp2022/images/surv%20-%20vendor%20map.html')"/>Maths<br>
+        <input type="radio" name="iframe" value="type" onClick = "go('https://facebook.com')"/>ICT
+    </form>
+</div>
 
 ### Introduction  
 
