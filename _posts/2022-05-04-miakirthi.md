@@ -5,7 +5,6 @@ image: "/conflict_urbanism_sp2022/images/csr_thumbnail.png"
 title:  "Street-Level Surveillance: Public Space into Police State"
 author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 ---
-<p>&nbsp;</p>
 <i>For the best experience, please view on desktop.</i>
 <p>&nbsp;</p>
 ### Introduction  
