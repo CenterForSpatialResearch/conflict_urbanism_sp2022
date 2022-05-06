@@ -5,10 +5,12 @@ image: "/conflict_urbanism_sp2022/images/csr_thumbnail.png"
 title:  "Street-Level Surveillance: Public Space into Police State"
 author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 ---
-
+<p>&nbsp;</p>
+<i>For the best experience, please view on desktop.</i>
+<p>&nbsp;</p>
 ### Introduction  
 
-<p><span>Today, cities across the world are developing under an unprecedented scale and sophistication of digital tools, becoming rapidly  and seamlessly integrated within our urban infrastructures. Invisible systems of digital interconnectedness track and analyze vast amounts of information about people—supposedly to apply data-informed solutions to urban issues. Law enforcement agencies increasingly adopt surveillance technologies as a tactic to reduce crime and increase security in our communities; however, the indiscriminate use of street-level, military-grade surveillance technologies have begun to blur the lines between security and oppression in our public spaces. &nbsp;</i></span></p>
+<p><span>Today, cities across the world are developing under an unprecedented scale and sophistication of digital tools, becoming rapidly  and seamlessly integrated within our urban infrastructures. Invisible systems of digital interconnectedness track and analyze vast amounts of information about people—supposedly to apply data-informed solutions to urban issues. Law enforcement agencies increasingly adopt surveillance technologies as a tactic to reduce crime and increase security in our communities; however, the indiscriminate use of street-level, military-grade surveillance technologies have begun to blur the lines between security and oppression in our public spaces. &nbsp;</span></p>
 <p><span>Normal people going about ordinary life in the city are being implicated in a massive data extraction operation at every stoplight, intersection, subway station—disproportionately affecting marginalized communities. <i>This project investigates the US law enforcement’s use of public urban space as a covert tool for a massive data extraction operation, and how it conflicts with privacy in modern urban life.</i> &nbsp;</span></p>
 <p>&nbsp;</p>
 
