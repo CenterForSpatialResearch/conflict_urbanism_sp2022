@@ -123,10 +123,8 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <p style="text-align:center;"><i>Conflict Urbanism 2022 | Partial Data from <a href = "#1">Atlas of Surveillance</a>.</i></p>
 <p>&nbsp;</p>
 
-<p><span>A large majority of US-made surveillance technology is manufactured in Santa Monica, California. This is because Ring, Amazon’s home surveillance camera system, has partnerships with about 1,332  different law enforcement agencies, comprising a large proportion of domestic-based surveillance technology. Ring is Amazon's smart home security system, where users install Ring surveillance cameras at their front doors and may choose to partake in Neighbors, Ring’s social media app.&nbsp;</span></p>
-<p>&nbsp;</p>
-> The app, known as the“new neighborhood watch,” allows neighbors to report “suspicious activities” within a certain radius of their home’s location.
-<p>&nbsp;</p>
+<p><span>A large majority of US-made surveillance technology is manufactured in Santa Monica, California. This is because Ring, Amazon’s home surveillance camera system, has partnerships with about 1,332  different law enforcement agencies, comprising a large proportion of domestic-based surveillance technology. Ring is Amazon's smart home security system, where users install Ring surveillance cameras at their front doors and may choose to partake in Neighbors, Ring’s social media app. The app, known as the“new neighborhood watch,” allows neighbors to report “suspicious activities” within a certain radius of their home’s location.</span></p>
+
 <p><span>Ring’s local security communities and its many police partnerships form a network of neighborhood surveillance<a href="#3"><sup>3</sup></a>. Amazon has been criticized for collecting an enormous amount of data from Ring users, not disclosing the full details of its partnership with law enforcement, and for reinforcing the racial biases of the communities that use it.  
 &nbsp;</span></p>
 
@@ -159,10 +157,11 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 
 <p>&nbsp;</p>
 
-### Control & Regulate Surveillance  
-> Surveillance technologies and data collection in public spaces are not inherently bad. Surveillance technology is just a tool, and data is a type of information. It is only through the specific ways and contexts through which surveillance tools and public information are used that weaponize them.  
+### Control & Regulate Surveillance 
 <p>&nbsp;</p>
-<p><span>Body-worn cameras are an example of this—body camera footage can be used to surveil people who police interact with and third parties who may have no knowledge  that they are being monitored. The footage can also be combined with analytics software, such as facial recognition. However, when there is police misconduct or an abuse of power, body camera footage can be used to hold police accountable. In criminal investigations, video footage serves as extremely valuable evidence that helps build and strengthen cases. For example, when Derek Chauvin was pressing his knee into George Floyd’s neck in May of 2020, Darnella Frazier took out her phone and recorded the murder, because “[she] knew if [she] didn’t, no one would believe [her].”<a href="#7"><sup>7</sup></a> Frazier surveilled the police officer— and her video served as powerful evidence for criminal charges for four police officers and the conviction of Chauvin.  
+> Surveillance technologies and data collection in public spaces are not inherently bad. 
+<p>&nbsp;</p>
+<p><span>Surveillance technology is just a tool, and data is a type of information. It is only through the specific ways and contexts through which surveillance tools and public information are used that weaponize them. Body-worn cameras are an example of this—body camera footage can be used to surveil people who police interact with and third parties who may have no knowledge  that they are being monitored. The footage can also be combined with analytics software, such as facial recognition. However, when there is police misconduct or an abuse of power, body camera footage can be used to hold police accountable. In criminal investigations, video footage serves as extremely valuable evidence that helps build and strengthen cases. For example, when Derek Chauvin was pressing his knee into George Floyd’s neck in May of 2020, Darnella Frazier took out her phone and recorded the murder, because “[she] knew if [she] didn’t, no one would believe [her].”<a href="#7"><sup>7</sup></a> Frazier surveilled the police officer— and her video served as powerful evidence for criminal charges for four police officers and the conviction of Chauvin.  
 &nbsp;</span></p>
 
 <p>&nbsp;</p>
