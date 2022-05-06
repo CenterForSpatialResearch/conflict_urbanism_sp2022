@@ -21,12 +21,14 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 
 <p>&nbsp;</p>
 <b>Surveillance Technologies <i>(Hover node to see definitions)</i></b>
-<iframe src="/conflict_urbanism_sp2022/images/surv - treemap.html" style="border-width: 0px;left: 15%;right: 15%;
-  margin-left: -15vw;
-  margin-right: -15vw;
-  max-width: 100vw; height:200px;
+
+<p>&nbsp;</p>
+<iframe src="/conflict_urbanism_sp2022/images/surv - treemap.html" style="border-width: 0px;left: 10%;right: 10%;
+  margin-left: -10vw;
+  margin-right: -10vw;
+  max-width: 100vw; height:400px;
   position: relative;" scrolling="no"></iframe>
-<p style="text-align:center;"><i>Kirthi Balakrishnan + Mia Winther-Tamaki | Street-Level Surveillance: Public Space into Police State | Conflict Urbanism 2022 | Definitions from Atlas of Surveillance.</i></p>
+<p style="text-align:center;"><i>Kirthi Balakrishnan + Mia Winther-Tamaki | Street-Level Surveillance: Public Space into Police State | Conflict Urbanism 2022 | Definitions from <a href = "#1">Atlas of Surveillance</a>.</i></p>
 <p>&nbsp;</p>
 
 <p><span>The deployment of police surveillance has hierarchical jurisdiction and data flows. The local level data collected by city police departments flow upwards into state and federal law enforcement agencies’ intelligence systems. At the top of the hierarchy is the federal homeland security intelligence offices that have access to a vast and robust system of intelligence analysis, informed by data collected by cities and states across the nation. 
@@ -60,8 +62,8 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:550px;
-  position: relative;" scrolling="no"></iframe><p>&nbsp;</p>
-<br><p style="text-align:center;"><i>Kirthi Balakrishnan + Mia Winther-Tamaki | Street-Level Surveillance: Public Space into Police State | Conflict Urbanism 2022 | Partial Data from Atlas of Surveillance.</i></p><p>&nbsp;</p>
+  position: relative;" scrolling="no"></iframe>
+<p style="text-align:center;"><i>Kirthi Balakrishnan + Mia Winther-Tamaki | Street-Level Surveillance: Public Space into Police State | Conflict Urbanism 2022 | Partial Data from <a href = "#1">Atlas of Surveillance</a>.</i></p><p>&nbsp;</p>
   
 <p><span>When looking at the top types of technologies used by agencies across the US, large urban areas at the periphery of the country more commonly deploy analytical tools, including Los Angeles, San Francisco, New York City, Florida, Atlanta, and Chicago. 
 &nbsp;</span></p>
@@ -71,7 +73,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
   margin-right: -50vw;
   max-width: 100vw; height:550px;
   position: relative;" scrolling="no"></iframe><p>&nbsp;</p>
-<br><p style="text-align:center;"><i>Kirthi Balakrishnan + Mia Winther-Tamaki | Street-Level Surveillance: Public Space into Police State | Conflict Urbanism 2022 | Partial Data from Atlas of Surveillance.</i></p>
+<p style="text-align:center;"><i>Kirthi Balakrishnan + Mia Winther-Tamaki | Street-Level Surveillance: Public Space into Police State | Conflict Urbanism 2022 | Partial Data from <a href = "#1">Atlas of Surveillance</a>.</i></p>
 <p>&nbsp;</p>
 
 ### Private Technology Vendors: Domestic And International Firms:  
@@ -79,12 +81,12 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <p><span>US law enforcement surveillance technologies operate in an immense network of public-private partnerships—government agencies deploy the surveillance technologies across the nation, and private technology firms manufacture them. The power held in surveillance systems is largely related to who owns and accesses the data; private firms in the US that manufacture law enforcements’ technologies can use the generated civic data generated for their own interests. 
 &nbsp;</span></p>
 
-<p>&nbsp;</p><iframe src="/conflict_urbanism_sp2022/images/surv - US vendor map.html" style="border-width: 0px;left: 50%;right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  max-width: 100vw; height:900px;
+<p>&nbsp;</p><iframe src="/conflict_urbanism_sp2022/images/surv - US vendor map.html" style="border-width: 0px;left: 15%;right: 15%;
+  margin-left: -15vw;
+  margin-right: -15vw;
+  max-width: 100vw; height:850px;
   position: relative;" scrolling="no"></iframe><p>&nbsp;</p>
-<br><p style="text-align:center;"><i>Kirthi Balakrishnan + Mia Winther-Tamaki | Street-Level Surveillance: Public Space into Police State | Conflict Urbanism 2022 | Partial Data from Atlas of Surveillance.</i></p><p>&nbsp;</p>
+<p style="text-align:center;"><i>Kirthi Balakrishnan + Mia Winther-Tamaki | Street-Level Surveillance: Public Space into Police State | Conflict Urbanism 2022 | Partial Data from <a href = "#1">Atlas of Surveillance</a>.</i></p>
 
 <p><span>Connecting the types of US agencies’ surveillance technologies, the vendor for each technology, and the origin or headquarters of each vendor showed the murky supply chains behind. Vendors had both domestic and international origins.  
 &nbsp;</span></p>
@@ -96,7 +98,8 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
   max-width: 100vw; height:550px;
   position: relative;" scrolling="no"></iframe>
 <p>&nbsp;</p>
-<br><p style="text-align:center;"><i>Kirthi Balakrishnan + Mia Winther-Tamaki | Street-Level Surveillance: Public Space into Police State | Conflict Urbanism 2022 | Partial Data from Atlas of Surveillance.</i></p><p>&nbsp;</p>
+<p style="text-align:center;"><i>Kirthi Balakrishnan + Mia Winther-Tamaki | Street-Level Surveillance: Public Space into Police State | Conflict Urbanism 2022 | Partial Data from <a href = "#1">Atlas of Surveillance</a>.</i></p>
+<p>&nbsp;</p>
 
 <p><span>A large majority of US-made surveillance technology is manufactured in Santa Monica, California. This is because Ring, Amazon’s home surveillance camera system, has partnerships with about 1,332  different law enforcement agencies, comprising a large proportion of domestic-based surveillance technology. Ring is Amazon's smart home security system, where users install Ring surveillance cameras at their front doors and may choose to partake in Neighbors, Ring’s social media app. The app, known as the“new neighborhood watch,” allows neighbors to report “suspicious activities” within a certain radius of their home’s location. Ring’s local security communities and its many police partnerships form a network of neighborhood surveillance<a href="#3"><sup>3</sup></a>. Amazon has been criticized for collecting an enormous amount of data from Ring users, not disclosing the full details of its partnership with law enforcement, and for reinforcing the racial biases of the communities that use it.  
 &nbsp;</span></p>
@@ -112,7 +115,9 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
   margin-right: -50vw;
   max-width: 100vw; height:1050px;
   position: relative;" scrolling="no"></iframe>
-<br><p style="text-align:center;"><i>Kirthi Balakrishnan + Mia Winther-Tamaki | Street-Level Surveillance: Public Space into Police State | Conflict Urbanism 2022 | Partial Data from Atlas of Surveillance.</i></p><p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align:center;"><i>Kirthi Balakrishnan + Mia Winther-Tamaki | Street-Level Surveillance: Public Space into Police State | Conflict Urbanism 2022 | Partial Data from <a href = "#1">Atlas of Surveillance</a>.</i></p>
+<p>&nbsp;</p>
 
 <p><span>When looking at international vendors of US surveillance technology, China stands out as the most prominent vendor—almost entirely due to DJI drone manufacturing. Internationally manufactured, US-deployed surveillance technologies have significant data privacy implications because most countries have different data privacy policies. In China, every technology company is legally required to turn in any collected data to the Chinese government. </span></p>
 
