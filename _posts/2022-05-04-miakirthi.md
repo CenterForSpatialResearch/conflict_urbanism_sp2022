@@ -22,8 +22,13 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <b>Surveillance Technologies <i>(Hover node to see definitions)</i></b>
 <p>&nbsp;</p>
 
-<iframe src="/conflict_urbanism_sp2022/images/surv - treemap.html" style="position:relative;top:0;left:0;width:100%;height:500px;" frameborder="0"></iframe>
-
+<p>&nbsp;</p>
+<iframe src="/conflict_urbanism_sp2022/images/surv - treemap.html" style="border-width: 0px;left: 15%;right: 15%;
+  margin-left: -15vw;
+  margin-right: -15vw;
+  max-width: 100vw; height:300px;
+  position: relative;" scrolling="no"></iframe>
+<br><p style="text-align:center;"><i>Kirthi Balakrishnan + Mia Winther-Tamaki | Street-Level Surveillance: Public Space into Police State | Conflict Urbanism 2022 | Definitions from <a href = "#1">Atlas of Surveillance</a>.</i></p>
 <p>&nbsp;</p>
 
 <p><span>The deployment of police surveillance has hierarchical jurisdiction and data flows. The local level data collected by city police departments flow upwards into state and federal law enforcement agencies’ intelligence systems. At the top of the hierarchy is the federal homeland security intelligence offices that have access to a vast and robust system of intelligence analysis, informed by data collected by cities and states across the nation. 
