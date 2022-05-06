@@ -5,10 +5,10 @@ image: "/conflict_urbanism_sp2022/images/csr_thumbnail.png"
 title:  "Street-Level Surveillance: Public Space into Police State"
 author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 ---
-<i>For the best experience, please view on desktop.</i>
-<p>&nbsp;</p
+<p style="text-align:center;"><i>For the best experience, please view on desktop.</i></p>
+<p>&nbsp;</p>
 <img src="/conflict_urbanism_sp2022/images/surv - 1.jpg">
-<p style="text-align:center;"><i>Photo by <a href = "https://unsplash.com/@lianhao">Lianhao Qu</a>.</i></p>
+<p style="text-align:center;"><i>Photo by <a href = "https://unsplash.com/@lianhao">Lianhao Qu</a>. | <a href = "https://unsplash.com/terms">Unsplash License</a></i></p>
 <p>&nbsp;</p>
 
 ### Introduction  
@@ -71,7 +71,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <p style="text-align:center;"><i>Conflict Urbanism 2022 | Partial Data from <a href = "#1">Atlas of Surveillance</a>.</i></p>
 <p>&nbsp;</p>
   
-<p><span>When looking at the top types of technologies used by agencies across the US, large urban areas at the periphery of the country more commonly deploy analytical tools, including Los Angeles, San Francisco, New York City, Florida, Atlanta, and Chicago. 
+<p><span>Looking at the variety of surveillance technologies deployed is also useful when locating areas with more sophisticated surveillance operations. Surveillance systems perform more effectively when different types of surveillance technologies operate in tandem. Similarly large urban areas along the edges of the US have agencies that deploy the most diverse types of surveillance technologies. 
 &nbsp;</span></p>
 
 <p>&nbsp;</p><iframe src="/conflict_urbanism_sp2022/images/surv - num map.html" style="border-width: 0px;left: 50%;right: 50%;
@@ -151,6 +151,9 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 
 <p><span>Public space is foundational to our democracy, communities, and civil liberties. Yet, our streets, parks, and sidewalks are becoming policed and privatized in an unprecedented way. Data is at the heart of these issues, and cities need to allow for vibrant urban life where people have ownership over their own information. Technological advancements in our cities do not have to come at the expense of our privacy and freedom. Planners, policymakers, and technologists need to step up to the rate at which cities are digitally evolving, and push against the unparalleled invasions of privacy.
 &nbsp;</span></p>
+<p>&nbsp;</p>
+<img src="/conflict_urbanism_sp2022/images/surv - 2.jpg">
+<p style="text-align:center;"><i>Photo by <a href = "https://unsplash.com/@purzlbaum">Claudio Schwarz</a>. | <a href = "https://unsplash.com/terms">Unsplash License</a></i></p>
 <p>&nbsp;</p>
 
 ### Sources
