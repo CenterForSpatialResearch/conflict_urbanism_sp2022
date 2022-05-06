@@ -61,6 +61,9 @@ This project investigates the US law enforcement’s use of public urban space a
 
 <p><span>When looking at the top types of technologies used by agencies across the US, large urban areas at the periphery of the country more commonly deploy analytical tools, including Los Angeles, San Francisco, New York City, Florida, Atlanta, and Chicago. 
 &nbsp;</span></p>
+<p><span>Looking at the variety of surveillance technologies deployed is also useful when locating areas with more sophisticated surveillance operations. Surveillance systems perform more effectively when different types of surveillance technologies operate in tandem. Similarly large urban areas along the edges of the US have agencies that deploy the most diverse types of surveillance technologies. 
+&nbsp;</span></p>
+<p>&nbsp;</p>
 
 <script>
     function go(loc){
@@ -69,36 +72,20 @@ This project investigates the US law enforcement’s use of public urban space a
     }
 </script>
 
+<div class="button-center">
+  <form>
+    <input type="button" name="iframe" value="Agency-wise" onClick= "go('/conflict_urbanism_sp2022/images/surv - tech map.html')"/>
+    <input type="button" name="iframe" value="State-wise" onClick = "go('/conflict_urbanism_sp2022/images/surv - num map.html')"/>
+  </form>
+</div>
+
+<p>&nbsp;</p>
 <iframe id="iframe" src="/conflict_urbanism_sp2022/images/surv - tech map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:550px;
   position: relative;" scrolling="no"></iframe>
 
-<form>
-    <input type="button" name="iframe" value="Agency-wise" onClick= "go('/conflict_urbanism_sp2022/images/surv - tech map.html')"/><br>
-    <input type="button" name="iframe" value="State-wise" onClick = "go('/conflict_urbanism_sp2022/images/surv - num map.html')"/> 
-</form>
-
-<p>&nbsp;</p>
-
-<iframe src="/conflict_urbanism_sp2022/images/surv - tech map.html" style="border-width: 0px;left: 50%;right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  max-width: 100vw; height:550px;
-  position: relative;" scrolling="no"></iframe>
-<p style="text-align:center;"><i>Kirthi Balakrishnan + Mia Winther-Tamaki | Street-Level Surveillance: Public Space into Police State</i></p>
-<p style="text-align:center;"><i>Conflict Urbanism 2022 | Partial Data from <a href = "#1">Atlas of Surveillance</a>.</i></p>
-<p>&nbsp;</p>
-  
-<p><span>Looking at the variety of surveillance technologies deployed is also useful when locating areas with more sophisticated surveillance operations. Surveillance systems perform more effectively when different types of surveillance technologies operate in tandem. Similarly large urban areas along the edges of the US have agencies that deploy the most diverse types of surveillance technologies. 
-&nbsp;</span></p>
-
-<p>&nbsp;</p><iframe src="/conflict_urbanism_sp2022/images/surv - num map.html" style="border-width: 0px;left: 50%;right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  max-width: 100vw; height:550px;
-  position: relative;" scrolling="no"></iframe><p>&nbsp;</p>
 <p style="text-align:center;"><i>Kirthi Balakrishnan + Mia Winther-Tamaki | Street-Level Surveillance: Public Space into Police State</i></p>
 <p style="text-align:center;"><i>Conflict Urbanism 2022 | Partial Data from <a href = "#1">Atlas of Surveillance</a>.</i></p>
 <p>&nbsp;</p>
