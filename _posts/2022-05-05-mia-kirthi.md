@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2022-01-01
+date:   2022-05-04
 image: ""/conflict_urbanism_sp2022/images/csr_thumbnail.png""
 title:  "Street-Level Surveillance: An Urban Panopticon"
 author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
