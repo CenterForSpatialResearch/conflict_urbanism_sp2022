@@ -72,14 +72,15 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
     }
 </script>
 
+<link rel="prerender" href="/conflict_urbanism_sp2022/images/surv - num map.html" as="document">
+<link rel="prerender" href="/conflict_urbanism_sp2022/images/surv - tech map.html" as="document">
+
 <div class="button-center">
   <form>
     <input type="button" name="iframe" value="Agency-wise" id="button" onClick= "go('/conflict_urbanism_sp2022/images/surv - tech map.html')"/> &nbsp;
     <input type="button" name="iframe" value="State-wise" id="button" onClick = "go('/conflict_urbanism_sp2022/images/surv - num map.html')"/>
   </form>
 </div>
-
-<link rel="prerender" href="/conflict_urbanism_sp2022/images/surv - num map.html" as="document">
 
 <p>&nbsp;</p>
 <iframe id="iframe" src="/conflict_urbanism_sp2022/images/surv - tech map.html" style="border-width: 0px;left: 50%;right: 50%;
