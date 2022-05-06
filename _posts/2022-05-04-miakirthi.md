@@ -8,13 +8,12 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 
 ## What is an Urban Panopticon / a surveillance city?  
 
-<p><img src="https://courseworks2.columbia.edu/users/543714/files/14105712/preview?verifier=8q94TgT3DEg0cDAyWUPaObFZRqJqhkH1VNn77CyK" alt="panopticon.jpg" /></p>
-
 <p><span>A panopticon is a circular prison where a guard is stationed at the center of the building with the ability to see all inmates in cells along the building's circumference. However, the inmates cannot see the guard, obfuscating the known and creating a constant paranoia and sense of always being watched. The indiscriminate use of street-level surveillance technologies in public and private urban spaces can be likened to the surveillance structure of a panopticon.&nbsp;<i>Today's smart cities have become a covert tool for increasing surveillance, corporate profits, and social control.&nbsp;</i></span></p>
 <p>&nbsp;</p>
 ### What are we investigating? Why does this matter?  
 <p><span>This study aims to discuss the impact of data collection and surveillance technologies, their increasing privatization, and their inevitable consequences in power imbalances at urban governance level. Through this lens, this study will also attempt to demonstrate the spatial and political implications of employing privately-owned video surveillance and facial recognition technologies by law enforcement agencies. We will focus on three major US cities to study how the cities&rsquo; police forces are deploying privately owned surveillance technology. We hope to draw a connection between the role of private capitalist interests in public policing strategies, and investigate whether the decentralized nature of digital surveillance technologies correlates with urban spatial degradation.</span></p>
 <p><span>Law enforcement agencies are turning to increasingly sophisticated surveillance technologies to closely track and monitor civilians. What were previously only military-grade technologies are now being deployed at the street-level, making cities&nbsp;a targeted landscape for data extraction. We believe that&nbsp;<i>&ldquo;city governments eager to take advantage of new technologies must act as responsible gatekeepers and public stewards in structuring their technology to protect equity and fundamental rights.&rdquo;</i><i></i></span></p>
+
 <p>&nbsp;</p>
 
 
@@ -25,13 +24,6 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 
 </p>
 
-<iframe src="/conflict_urbanism_sp2022/images/surv - le hist.html" style="border-width: 0px;left: 50%;right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  max-width: 100vw; height:1050px;
-  position: relative;" scrolling="no"></iframe>
-
-<p>
 
 ### Technologies used by Police:  
 <p><span style="font-size: 13pt;"><strong>Cell Site Simulator </strong></span></p>
@@ -52,6 +44,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <p><span>Computer software used in combination with video footage from surveillance cameras to analyze information such as facial identification, movement patterns, etc.</span></p>
 <p>&nbsp;</p>
 
+
 <iframe src="/conflict_urbanism_sp2022/images/surv - vendor map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
@@ -59,10 +52,8 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
   position: relative;" scrolling="no"></iframe>
 <p>&nbsp;</p>
 
-<p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
-<p>&nbsp;</p>
 
-<iframe src="/conflict_urbanism_sp2022/images/surv - US vendor map.html" style="border-width: 0px; scrolling="no"></iframe>
+<p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
 <p>&nbsp;</p>
                                                                                                                  
 <div class="iframe-column"><iframe src="/conflict_urbanism_sp2022/images/surv - US vendor map.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
@@ -72,16 +63,6 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 
 <p>&nbsp;</p>
 <iframe src="/conflict_urbanism_sp2022/images/surv - US vendor hist.html" style="border-width: 0px;left: 50%;right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  max-width: 100vw; height:550px;
-  position: relative;" scrolling="no"></iframe>
-<p>&nbsp;</p>
-  
-<p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
-
-<p>&nbsp;</p>
-<iframe src="/conflict_urbanism_sp2022/images/surv - tech hist.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:550px;
