@@ -87,7 +87,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <p>&nbsp;</p><iframe src="/conflict_urbanism_sp2022/images/surv - US vendor map.html" style="border-width: 0px;left: 15%;right: 15%;
   margin-left: -15vw;
   margin-right: -15vw;
-  max-width: 100vw; height:850px;
+  max-width: 100vw; height:750px;
   position: relative;" scrolling="no"></iframe><p>&nbsp;</p>
 <p style="text-align:center;"><i>Kirthi Balakrishnan + Mia Winther-Tamaki | Street-Level Surveillance: Public Space into Police State</i></p>
 <p style="text-align:center;"><i>Conflict Urbanism 2022 | Partial Data from <a href = "#1">Atlas of Surveillance</a>.</i></p>
