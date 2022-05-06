@@ -22,6 +22,17 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <p><span>The Atlas of Surveillance Dataset is a compilation and organization of already existing open-source information&mdash; an effort conducted by the Electronic Frontier foundation the Reynolds School of Journalism at the University of Nevada, Reno. The data collection process consists of crowdsourcing and data aggregation. The crowdsourcing data collection uses a tool called &lsquo;Report Back&rsquo; which automatically distributes data research assignments to volunteers and students. More than 800 students and volunteers since November of 2021 have contributed to this research. The data aggregation aspect consists of collecting and reorganizing information already compiled on other public surveillance technology datasets.</span></p>
 <p><span>A major limitation of this dataset is that sources providing the data are likely not always reliable and accurate. For example, a government agency data source may selectively choose which data to share, and which data to withhold. Journalism-sourced data may have been misinterpreted during the reporting process.&nbsp;</span></p>
 <p>&nbsp;</p>
+
+</p>
+
+<iframe src="/conflict_urbanism_sp2022/images/surv - le hist.html.html" style="border-width: 0px;left: 50%;right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw; height:1050px;
+  position: relative;" scrolling="no"></iframe>
+
+<p>
+
 ### Technologies used by Police:  
 <p><span style="font-size: 13pt;"><strong>Cell Site Simulator </strong></span></p>
 <p><span>Cell Site Simulators, more commonly known as &ldquo;Stringrays&rdquo; or international mobile subscriber identity-catchers ( IMSI catchers), are utilized by police without warrants to eavesdrop and intercept SMS messages, cell phone calls, and other mobile traffic. Cell Site Simulators trick phones to connect to them by pretending to be a traditional cell-phone tower. Some countries such as Germany strictly regulate Cell Site Simulator due to civil privacy and liberty concerns. </span></p>
@@ -48,11 +59,52 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 
 <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
 <p>&nbsp;</p>
+<iframe src="/conflict_urbanism_sp2022/images/surv - US vendor map.html" style="border-width: 0px;left: 50%;right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw; height:550px;
+  position: relative;" scrolling="no"></iframe>
+  
+  <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
+<p>&nbsp;</p>
+<iframe src="/conflict_urbanism_sp2022/images/surv - US vendor hist.html" style="border-width: 0px;left: 50%;right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw; height:550px;
+  position: relative;" scrolling="no"></iframe>
+  
+    <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
+<p>&nbsp;</p>
+<iframe src="/conflict_urbanism_sp2022/images/surv - tech hist.html" style="border-width: 0px;left: 50%;right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw; height:550px;
+  position: relative;" scrolling="no"></iframe>
+  
+    <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
+<p>&nbsp;</p>
+<iframe src="/conflict_urbanism_sp2022/images/surv - US vendor hist.html" style="border-width: 0px;left: 50%;right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw; height:550px;
+  position: relative;" scrolling="no"></iframe>
+  
+      <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
+<p>&nbsp;</p>
 <iframe src="/conflict_urbanism_sp2022/images/surv - num map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:550px;
   position: relative;" scrolling="no"></iframe>
+  
+      <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
+<p>&nbsp;</p>
+<iframe src="/conflict_urbanism_sp2022/images/surv - sankey.html" style="border-width: 0px;left: 50%;right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw; height:550px;
+  position: relative;" scrolling="no"></iframe>
+  
 ### Implications of International Firms and Data:
 <p><span style="font-size: 13pt;"><strong>Drones and China</strong></span></p>
 <p><span style="font-weight: 400;">Drone-generated data also enables national security threats. DJI, the Chinese tech company responsible for manufacturing a majority of the US law enforcement agencies&rsquo; drones, was recently added to the US Department of Treasury&rsquo;s investment blacklist after information was uncovered regarding DJI&rsquo;s role in surveilling the Uyghur Muslim population in the Xinjiang Region&rsquo;s concentration camps. Cyber security researchers have since found the data collected from DJI aligns with Chinese government surveillance practices, which require drones to be linked to a user&rsquo;s identity,&rdquo; giving the Chinese government access to images, videos, biometric data, location data, and all other data generated by drones. The US federal government has largely stopped using drones manufactured by Chinese companies, although state and local-level enforcement continues to deploy them. DJI&rsquo;s case reflects the increasing security risk of international data leaks resulting from the surveillance technology sector in the US&mdash;even if a technology gets banned, the data already generated from them persists, likely in intelligence offices abroad that closely monitor the data</span><strong>.</strong></p>
