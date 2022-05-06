@@ -20,7 +20,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 </span></p>
 
 <p>&nbsp;</p>
-<b>Surveillance Technologies <i>(Hover node to see definitions)</i></b>
+<b>Surveillance Technologies <i>(Hover box to see definitions)</i></b>
 
 <p>&nbsp;</p>
 <iframe src="/conflict_urbanism_sp2022/images/surv - treemap.html" style="border-width: 0px;left: 10%;right: 10%;
