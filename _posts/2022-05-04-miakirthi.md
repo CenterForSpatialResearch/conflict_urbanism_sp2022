@@ -30,7 +30,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 &nbsp;</span></p>
 
 <p>&nbsp;</p>
-<b><i>(Hover node to see distribution)</i></b>
+<b>Surveillance Hierarchy <i>(Hover node to see distribution)</i></b>
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
