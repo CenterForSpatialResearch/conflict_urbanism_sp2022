@@ -50,60 +50,74 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <p><span>Predictive policing is an analysis of crime-related data and software used by police departments to preemptively decide which groups of people and which neighborhoods should be given more police presence. Large sets of data are analyzed with machine learning and artificial intelligence algorithms. </span><strong></strong></p>
 <p><span style="font-size: 13pt;"><strong>Video Analytics </strong></span></p>
 <p><span>Computer software used in combination with video footage from surveillance cameras to analyze information such as facial identification, movement patterns, etc.</span></p>
+<p>&nbsp;</p>
 
 <iframe src="/conflict_urbanism_sp2022/images/surv - vendor map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:1050px;
   position: relative;" scrolling="no"></iframe>
+<p>&nbsp;</p>
 
 <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
 <p>&nbsp;</p>
+
 <iframe src="/conflict_urbanism_sp2022/images/surv - US vendor map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:550px;
   position: relative;" scrolling="no"></iframe>
+<p>&nbsp;</p>
   
-  <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
+<p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
+<p>&nbsp;</p>
+
 <p>&nbsp;</p>
 <iframe src="/conflict_urbanism_sp2022/images/surv - US vendor hist.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:550px;
   position: relative;" scrolling="no"></iframe>
+<p>&nbsp;</p>
   
-    <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
+<p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
+
 <p>&nbsp;</p>
 <iframe src="/conflict_urbanism_sp2022/images/surv - tech hist.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:550px;
   position: relative;" scrolling="no"></iframe>
-  
-    <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
+<p>&nbsp;</p>
+
+<p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
+
 <p>&nbsp;</p>
 <iframe src="/conflict_urbanism_sp2022/images/surv - US vendor hist.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:550px;
   position: relative;" scrolling="no"></iframe>
+<p>&nbsp;</p>
   
-      <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
+<p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
+
 <p>&nbsp;</p>
 <iframe src="/conflict_urbanism_sp2022/images/surv - num map.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:550px;
   position: relative;" scrolling="no"></iframe>
+<p>&nbsp;</p>
   
-      <p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
+<p><span>We connected police surveillance technologies across the US and the corresponding technology&rsquo;s country of origin. China stands out as the largest vendor for US surveillance technologies&mdash;almost entirely due to drone manufacturing. France stood out as a major supplied to the US for facial recognition technology.&nbsp;</span></p>
 <p>&nbsp;</p>
 <iframe src="/conflict_urbanism_sp2022/images/surv - sankey.html" style="border-width: 0px;left: 50%;right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   max-width: 100vw; height:550px;
   position: relative;" scrolling="no"></iframe>
+<p>&nbsp;</p>
   
 ### Implications of International Firms and Data:
 <p><span style="font-size: 13pt;"><strong>Drones and China</strong></span></p>
