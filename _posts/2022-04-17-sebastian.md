@@ -105,7 +105,7 @@ author: "Sebastian Salas, Govardan Rajasekaran"
 
 <img src= "/conflict_urbanism_sp2022/images/U.R%2016.jpg">
 <p><em>IT Park in the Electronic City SEZ / <span style="font-weight: 400;">Photo Source: "</span><a href="https://upload.wikimedia.org/wikipedia/commons/0/0c/Infosys.Electronic.City.Lunch.Time.JPG"><span style="font-weight: 400;">File:Infosys.Electronic.City.Lunch.Time.JPG</span></a><span style="font-weight: 400;">" by Zondor at English Wikipedia is marked with CC BY-SA 3.0</span></em></p>
-<img src= "/conflict_urbanism_sp2022/images/U.R%2017.gif">
+<img src= "/conflict_urbanism_sp2022/images/U.R%2017.gif"> 
 <p><em>Sprawl illustrated across time by in the Electronic City SEZ / Map Data: Google, CNES / Airbus, Maxar Technologies -&nbsp; Diagrammed from original with Spatial data: &ldquo;MAPPING INDIA'S URBANISATION&rdquo;, Kshitij Batra / Diagrammed from original</em></p>
 
 #### Implication // Electronic City
