@@ -57,7 +57,7 @@ author: "Sebastian Salas, Govardan Rajasekaran"
 
 <p><span style="font-weight: 400;">The Parcelacion R&iacute;o Vilc&uacute;n Chilo&eacute; is located on a 57-hectare Rustic Property that in its first stage lots 45 exclusive parcels whose variety includes: meadows, saplings, river banks and panoramic views, of a minimum of 5,000 m2 surrounded by an environment full of tranquility and nature. The project is being promoted to foreigner buyers from other regions of the country as &ldquo;the best investment for your future&rdquo;</span></p>
 
-<img src= "/conflict_urbanism_sp2022/images/U.R%208.jpg">
+<img src= "/conflict_urbanism_sp2022/images/U.R%208.gif">
 <p><em>Illustration of the parcelization process at Parcelaci&oacute;n R&iacute;o Vilc&uacute;n / Property data: Parcelacion R&iacute;o Vilc&uacute;n Chilo&eacute; and Map Data: Google, CNES - Airbus - Diagrammed from original.</em></p>
 
 <p><span style="font-weight: 400;">By analyzing the project, there is no clear urbanization plan with the possibility of generating new settlements. Many sites do not have access to roads, do not have water, and even less are urbanized with clean sanitation and a clear environmental protection plan. The new housing poles in natural landscapes are located in areas that "are not prepared for this type of densification," says the NGO Center for the Study and Conservation of Natural Heritage (CECPAN) statement. </span></p>
@@ -70,7 +70,7 @@ author: "Sebastian Salas, Govardan Rajasekaran"
 <p><span style="font-weight: 400;">The generation of these new housing poles in unplanned areas causes territorial segregation and the demand for local governments to provide essential services they can't offer. </span><strong>Hidden suburbanization in Chiloe is creating an irreparable modification of the rural landscape , altering these territories' cultural identity and agricultural vocation.</strong><span style="font-weight: 400;">&nbsp;</span></p>
 <p><span style="font-weight: 400;">The island of Chiloe is facing devastating consequences such as </span><i><span style="font-weight: 400;">"an important loss of native forest, due to land clearing; the destruction of valuable ecosystems, as well as the affectation of species of special value or vulnerability."&nbsp; (diario financiero, 2022)</span></i></p>
 
-<img src= "/conflict_urbanism_sp2022/images/U.R%2010.jpg">
+<img src= "/conflict_urbanism_sp2022/images/U.R%2010.gif">
 <p><em>Speculative illustration of a potential phase 2 at Parcelaci&oacute;n R&iacute;o Vilc&uacute;n and surrounding developments ecological impact / <span style="font-weight: 400;">Property data: </span><span style="font-weight: 400;">Parcelacion R&iacute;o Vilc&uacute;n Chilo&eacute;</span><span style="font-weight: 400;"> and Map Data: Google, CNES - Airbus - Diagrammed from original</span></em></p>
 
 #### Bengaluru, India
@@ -85,7 +85,7 @@ author: "Sebastian Salas, Govardan Rajasekaran"
 
 #### Industrialization // Bengaluru, Silicon Valley of India
 
-<img src= "/conflict_urbanism_sp2022/images/U.R%2012.jpg">
+<img src= "/conflict_urbanism_sp2022/images/U.R%2012.gif">
 <p><em>Bengaluru&rsquo;s urban growth, 1975-2014<span style="font-weight: 400;">/ </span><span style="font-weight: 400;">Map Data: Google, CNES / Airbus, Maxar Technologies / Diagrammed from original with Spatial data: &ldquo;</span><span style="font-weight: 400;">MAPPING INDIA'S URBANISATION</span><span style="font-weight: 400;">&rdquo;, Kshitij Batra / Diagrammed from original</span></em></p>
 
 <p><span style="font-weight: 400;">Bangalore has witnessed rapid urban growth in the last three decades alongside the rise of the tech and software industries and the inflow of foreign capital investment. Economic liberal policies and the rapid densification of the peripheries through the acquisition of cheap rural land, introduced tremendous changes to the national economy, as well as to the city of Bangalore. The effects of the rise of IT and related industries on real estate and commodification of land in the city have been widely studied (</span><span style="font-weight: 400;">Goldman, 2011</span><span style="font-weight: 400;">; </span><span style="font-weight: 400;">Idiculla, 2016</span><span style="font-weight: 400;">). The real estate boom was most visibly articulated in the southern and eastern parts of the city where the IT industry was located (</span><span style="font-weight: 400;">Rao and Suman, 2020</span><span style="font-weight: 400;">). This was accompanied by a growth in informal settlements in the city and by the expansion of the metropolitan area. The economic reforms and rise of the IT sector had crucial implications for the existing industrial economy in the city.</span></p>
@@ -105,7 +105,7 @@ author: "Sebastian Salas, Govardan Rajasekaran"
 
 <img src= "/conflict_urbanism_sp2022/images/U.R%2016.jpg">
 <p><em>IT Park in the Electronic City SEZ / <span style="font-weight: 400;">Photo Source: "</span><a href="https://upload.wikimedia.org/wikipedia/commons/0/0c/Infosys.Electronic.City.Lunch.Time.JPG"><span style="font-weight: 400;">File:Infosys.Electronic.City.Lunch.Time.JPG</span></a><span style="font-weight: 400;">" by Zondor at English Wikipedia is marked with CC BY-SA 3.0</span></em></p>
-<img src= "/conflict_urbanism_sp2022/images/U.R%2017.jpg">
+<img src= "/conflict_urbanism_sp2022/images/U.R%2017.gif">
 <p><em>Sprawl illustrated across time by in the Electronic City SEZ / Map Data: Google, CNES / Airbus, Maxar Technologies -&nbsp; Diagrammed from original with Spatial data: &ldquo;MAPPING INDIA'S URBANISATION&rdquo;, Kshitij Batra / Diagrammed from original</em></p>
 
 #### Implication // Electronic City
