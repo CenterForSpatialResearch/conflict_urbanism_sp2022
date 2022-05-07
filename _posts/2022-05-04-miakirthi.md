@@ -3,7 +3,7 @@ layout: post
 date:   2022-05-04
 image: "/conflict_urbanism_sp2022/images/csr_thumbnail.png"
 title:  "Street-Level Surveillance: Public Space into Police State"
-author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
+author: "Kirthi Balakrishnan + Mia Winther-Tamaki"
 ---
 
 <p style="text-align:center;"><i>For the best experience, please view on desktop.</i></p>
@@ -21,7 +21,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 
 
 ### Surveillance Technology Distribution & Data Flows 
-<p><span> A vast majority of the nation’s surveillance technology is deployed by city police department agencies and sheriffs offices, compared to other law enforcement agencies. This city-level deployment of surveillance technology implicates cities across the US as the primary scope and jurisdiction at which data extraction occurs. The geographic boundary of the city is being used to facilitate and serve the police state
+<p><span> A vast majority of the nation’s surveillance technology is deployed by city police department agencies and sheriffs offices, compared to other law enforcement agencies. This city-level deployment of surveillance technology implicates cities across the US as the primary scope and jurisdiction at which data extraction occurs. The geographic boundary of the city is being used as a method to facilitate and serve the police state.
 </span></p>
 
 <p>&nbsp;</p>
@@ -55,7 +55,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 <p><span>Surveillance technologies can be broken down into two main categories, data extraction tools and data analytical tools. Data extraction tools are surveillance devices deployed into public spaces to collect data from its environment. Data analytical tools are software that analyze and predict trends based on the data collected by the data extraction tools.  
 &nbsp;</span></p>
 
-<p><span>Information collected by data extraction tools flow into many different types of data analysis softwares that overlap and interlock to create a powerful security network operation. The data alone is not necessarily where the most dangerous consequences lie— it is when the data is input into a series of sophisticated analytical software software, at which the data becomes significantly more dangerous. Data analysis and predictions made by law enforcement. These analysis softwares are often equipped with machine learning and artificial intelligence (AI) technologies which essentially teach computers how to understand what data means, and predict what trends and behaviors will occur in the future.<a href="#1"><sup>1</sup></a>  Facial recognition, predictive policing, and other analytics reinforce racial bias when they “learn” from historic crime-related datasets —which are fraught with discriminatory practices. Trevor Paglen, an American artist known for his work in digital surveillance, described racism in AI as “not a bug, but a feature,” in an interview.<a href="#2"><sup>2</sup></a></span></p>
+<p><span>Information collected by data extraction tools flow into many different types of data analysis softwares that overlap and interlock to create a powerful security network operation. The data alone is not necessarily where the most dangerous consequences lie— it is when the data is input into a series of sophisticated analytical software software, at which the data becomes significantly more dangerous. Data analysis and predictions made by law enforcement use analysis softwares that are often equipped with machine learning and artificial intelligence (AI) technologies which essentially teach computers how to understand what data means, and predict what trends and behaviors will occur in the future.<a href="#1"><sup>1</sup></a>  Facial recognition, predictive policing, and other analytics reinforce racial bias when they “learn” from historic crime-related datasets —which are fraught with discriminatory practices. Trevor Paglen, an American artist known for his work in digital surveillance, described racism in AI as “not a bug, but a feature,” in an interview.<a href="#2"><sup>2</sup></a></span></p>
 <p>&nbsp;</p>
 
 > Machines learn from humans— and human history is inextricable from racism and abuse. Feeding these data as input into a computer language will teach the computer to speak that language.
@@ -183,7 +183,7 @@ author: "Mia Winther-Tamaki & Kirthi Balakrishnan"
 
 ### Conclusion  
 
-<p><span>Public space is foundational to our democracy, communities, and civil liberties. Yet, our streets, parks, and sidewalks are becoming policed and privatized in an unprecedented way. Data is at the heart of these issues, and cities need to allow for vibrant urban life where people have ownership over their own information. &nbsp;</span></p>
+<p><span>Public space is foundational to our democracy, communities, and civil liberties. Yet, our streets, parks, and sidewalks are becoming policed and privatized in an unprecedented way. Data is at the heart of these issues, and cities need to provide the protections necessary for a vibrant urban life where people have ownership over their own information. &nbsp;</span></p>
 <p>&nbsp;</p>
 
 > Technological advancements in our cities do not have to come at the expense of our privacy and freedom.  
