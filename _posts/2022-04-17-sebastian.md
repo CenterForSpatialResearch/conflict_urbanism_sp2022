@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2022-01-01
-image: "/conflict_urbanism_sp2022/images/csr_thumbnail.png"
+image: "/conflict_urbanism_sp2022/images/U.R%200.jpg"
 title:  "Urbanization of The Rural"
 author: "Sebastian Salas, Govardan Rajasekaran"
 ---
