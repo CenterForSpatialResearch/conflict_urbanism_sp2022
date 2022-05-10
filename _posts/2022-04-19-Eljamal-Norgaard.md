@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2022-04-19
+date:   2022-04-26
 image: "/conflict_urbanism_sp2022/images/Eljamal_Norgaard_Thumbnail.png"
 title:  "Toward an Infrapolitics of Borders and People: Deterritorializing and Reterritorializing in Haifa, Palestine and Mahikeng, South Africa"
 author: "Mekarem Eljamal and Stefan Norgaard"

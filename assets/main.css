@@ -133,7 +133,7 @@ blockquote {
       max-width: 100%;
       margin: auto auto 12 30;
     }
-  }
+  
 
 .content-column {
   display: flex;
@@ -254,7 +254,7 @@ table {
         margin-left: 20px; }
         .site-nav .page-link:not(:last-child) {
           margin-right: 0; } }
-    }
+    
 
 /**
  * Site footer

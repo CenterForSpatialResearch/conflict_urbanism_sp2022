@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2022-05-04
+date:   2022-05-08
 image: "/conflict_urbanism_sp2022/images/surv - cover.png"
 title:  "Street-Level Surveillance: Public Space into Police State"
 author: "Kirthi Balakrishnan + Mia Winther-Tamaki"
